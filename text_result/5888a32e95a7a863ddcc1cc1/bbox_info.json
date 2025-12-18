@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "text": "ChArItYnIGhT",
+        "filename": "layer_00_ChArItYnIGhT.png",
+        "position": {
+            "x_min": 29,
+            "y_min": 84,
+            "x_max": 471,
+            "y_max": 115
+        },
+        "dimension": {
+            "width": 442,
+            "height": 31
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 250.0,
+            "cy": 99.5
+        },
+        "color_hsv": [
+            177,
+            145,
+            221
+        ],
+        "color_bgr": [
+            108,
+            95,
+            221
+        ]
+    },
+    {
+        "id": 1,
+        "text": "SHELTER FOUDATION IN Westfort",
+        "filename": "layer_01_SHELTER FOUDATION IN Westfort.png",
+        "position": {
+            "x_min": 323,
+            "y_min": 135,
+            "x_max": 442,
+            "y_max": 195
+        },
+        "dimension": {
+            "width": 119,
+            "height": 60
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 382.5,
+            "cy": 165.0
+        },
+        "color_hsv": [
+            179,
+            52,
+            255
+        ],
+        "color_bgr": [
+            205,
+            203,
+            255
+        ]
+    }
+]

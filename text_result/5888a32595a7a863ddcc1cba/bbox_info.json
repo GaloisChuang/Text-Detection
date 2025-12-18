@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "text": "Daling Auclions in Wabash Cafe",
+        "filename": "layer_00_Daling Auclions in Wabash Cafe.png",
+        "position": {
+            "x_min": 289,
+            "y_min": 238,
+            "x_max": 755,
+            "y_max": 358
+        },
+        "dimension": {
+            "width": 466,
+            "height": 120
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 522.0,
+            "cy": 298.0
+        },
+        "color_hsv": [
+            26,
+            64,
+            36
+        ],
+        "color_bgr": [
+            27,
+            35,
+            36
+        ]
+    }
+]

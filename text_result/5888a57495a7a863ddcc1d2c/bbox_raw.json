@@ -1,0 +1,212 @@
+[
+    {
+        "id": 0,
+        "text": "Dating Auction in Wabash Cafe",
+        "score": 0.9938324093818665,
+        "position": {
+            "x_min": 108,
+            "y_min": 23,
+            "x_max": 794,
+            "y_max": 75
+        },
+        "dimension": {
+            "width": 686,
+            "height": 52
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 451.0,
+            "cy": 49.0
+        },
+        "color_hsv": [
+            30,
+            7,
+            136
+        ],
+        "color_bgr": [
+            132,
+            136,
+            136
+        ]
+    },
+    {
+        "id": 1,
+        "text": "TUESDAY IAPRIL 6TH",
+        "score": 0.8036169409751892,
+        "position": {
+            "x_min": 70,
+            "y_min": 93,
+            "x_max": 102,
+            "y_max": 366
+        },
+        "dimension": {
+            "width": 32,
+            "height": 273
+        },
+        "angle": 0.41974180936813354,
+        "center": {
+            "cx": 86.0,
+            "cy": 229.5
+        },
+        "color_hsv": [
+            20,
+            30,
+            73
+        ],
+        "color_bgr": [
+            64,
+            70,
+            73
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Charity Event. We are raising funds",
+        "score": 0.9813598394393921,
+        "position": {
+            "x_min": 147,
+            "y_min": 273,
+            "x_max": 756,
+            "y_max": 317
+        },
+        "dimension": {
+            "width": 609,
+            "height": 44
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 451.5,
+            "cy": 295.0
+        },
+        "color_hsv": [
+            150,
+            6,
+            255
+        ],
+        "color_bgr": [
+            255,
+            249,
+            255
+        ]
+    },
+    {
+        "id": 3,
+        "text": "for Cape May Medical Center.",
+        "score": 0.9768274426460266,
+        "position": {
+            "x_min": 143,
+            "y_min": 316,
+            "x_max": 651,
+            "y_max": 359
+        },
+        "dimension": {
+            "width": 508,
+            "height": 43
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 397.0,
+            "cy": 337.5
+        },
+        "color_hsv": [
+            150,
+            7,
+            255
+        ],
+        "color_bgr": [
+            255,
+            248,
+            255
+        ]
+    },
+    {
+        "id": 4,
+        "text": "$20 Donation to Artend",
+        "score": 0.9505884051322937,
+        "position": {
+            "x_min": 104,
+            "y_min": 385,
+            "x_max": 623,
+            "y_max": 450
+        },
+        "dimension": {
+            "width": 519,
+            "height": 65
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 363.5,
+            "cy": 417.5
+        },
+        "color_hsv": [
+            2,
+            29,
+            119
+        ],
+        "color_bgr": [
+            105,
+            106,
+            119
+        ]
+    },
+    {
+        "id": 5,
+        "text": "6:00 PM - 9:00 PM",
+        "score": 0.9157729148864746,
+        "position": {
+            "x_min": 114,
+            "y_min": 461,
+            "x_max": 310,
+            "y_max": 485
+        },
+        "dimension": {
+            "width": 196,
+            "height": 24
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 212.0,
+            "cy": 473.0
+        },
+        "color_hsv": [
+            2,
+            30,
+            108
+        ],
+        "color_bgr": [
+            95,
+            96,
+            108
+        ]
+    },
+    {
+        "id": 6,
+        "text": "CALL US: +84-392 222.3982",
+        "score": 0.9570390582084656,
+        "position": {
+            "x_min": 645,
+            "y_min": 458,
+            "x_max": 911,
+            "y_max": 484
+        },
+        "dimension": {
+            "width": 266,
+            "height": 26
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 778.0,
+            "cy": 471.0
+        },
+        "color_hsv": [
+            0,
+            24,
+            146
+        ],
+        "color_bgr": [
+            132,
+            132,
+            146
+        ]
+    }
+]

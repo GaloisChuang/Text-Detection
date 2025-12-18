@@ -1,0 +1,92 @@
+[
+    {
+        "id": 0,
+        "text": "Daling Auclions",
+        "score": 0.9197587966918945,
+        "position": {
+            "x_min": 289,
+            "y_min": 238,
+            "x_max": 755,
+            "y_max": 307
+        },
+        "dimension": {
+            "width": 466,
+            "height": 69
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 522.0,
+            "cy": 272.5
+        },
+        "color_hsv": [
+            26,
+            64,
+            36
+        ],
+        "color_bgr": [
+            27,
+            35,
+            36
+        ]
+    },
+    {
+        "id": 1,
+        "text": "in Wabash",
+        "score": 0.9588937759399414,
+        "position": {
+            "x_min": 301,
+            "y_min": 296,
+            "x_max": 611,
+            "y_max": 358
+        },
+        "dimension": {
+            "width": 310,
+            "height": 62
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 456.0,
+            "cy": 327.0
+        },
+        "color_hsv": [
+            27,
+            58,
+            37
+        ],
+        "color_bgr": [
+            29,
+            36,
+            37
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Cafe",
+        "score": 0.9972783327102661,
+        "position": {
+            "x_min": 601,
+            "y_min": 296,
+            "x_max": 747,
+            "y_max": 355
+        },
+        "dimension": {
+            "width": 146,
+            "height": 59
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 674.0,
+            "cy": 325.5
+        },
+        "color_hsv": [
+            30,
+            32,
+            36
+        ],
+        "color_bgr": [
+            31,
+            36,
+            36
+        ]
+    }
+]

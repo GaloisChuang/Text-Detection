@@ -1,0 +1,92 @@
+[
+    {
+        "id": 0,
+        "text": "CORPORATE",
+        "filename": "layer_00_CORPORATE.png",
+        "position": {
+            "x_min": 48,
+            "y_min": 59,
+            "x_max": 259,
+            "y_max": 86
+        },
+        "dimension": {
+            "width": 211,
+            "height": 27
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 153.5,
+            "cy": 72.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            255
+        ],
+        "color_bgr": [
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "id": 1,
+        "text": "CHARITYDAY",
+        "filename": "layer_01_CHARITYDAY.png",
+        "position": {
+            "x_min": 47,
+            "y_min": 91,
+            "x_max": 281,
+            "y_max": 124
+        },
+        "dimension": {
+            "width": 234,
+            "height": 33
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 164.0,
+            "cy": 107.5
+        },
+        "color_hsv": [
+            179,
+            174,
+            166
+        ],
+        "color_bgr": [
+            57,
+            53,
+            166
+        ]
+    },
+    {
+        "id": 2,
+        "text": "FIGHTING POVERTY FORA BRIGHTER FUTURE!",
+        "filename": "layer_02_FIGHTING POVERTY FORA BRIGHTER.png",
+        "position": {
+            "x_min": 73,
+            "y_min": 161,
+            "x_max": 430,
+            "y_max": 179
+        },
+        "dimension": {
+            "width": 357,
+            "height": 18
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 251.5,
+            "cy": 170.0
+        },
+        "color_hsv": [
+            0,
+            0,
+            146
+        ],
+        "color_bgr": [
+            146,
+            146,
+            146
+        ]
+    }
+]

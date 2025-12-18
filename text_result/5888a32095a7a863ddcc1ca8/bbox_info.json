@@ -1,0 +1,92 @@
+[
+    {
+        "id": 0,
+        "text": "2018/",
+        "filename": "layer_00_2018.png",
+        "position": {
+            "x_min": 34,
+            "y_min": 130,
+            "x_max": 125,
+            "y_max": 174
+        },
+        "dimension": {
+            "width": 91,
+            "height": 44
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 79.5,
+            "cy": 152.0
+        },
+        "color_hsv": [
+            25,
+            215,
+            149
+        ],
+        "color_bgr": [
+            23,
+            128,
+            149
+        ]
+    },
+    {
+        "id": 1,
+        "text": "Musi",
+        "filename": "layer_01_Musi.png",
+        "position": {
+            "x_min": 181,
+            "y_min": 131,
+            "x_max": 326,
+            "y_max": 190
+        },
+        "dimension": {
+            "width": 145,
+            "height": 59
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 253.5,
+            "cy": 160.5
+        },
+        "color_hsv": [
+            173,
+            29,
+            35
+        ],
+        "color_bgr": [
+            32,
+            31,
+            35
+        ]
+    },
+    {
+        "id": 2,
+        "text": "gaten andlgnte",
+        "filename": "layer_02_gaten andlgnte.png",
+        "position": {
+            "x_min": 345,
+            "y_min": 177,
+            "x_max": 448,
+            "y_max": 198
+        },
+        "dimension": {
+            "width": 103,
+            "height": 21
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 396.5,
+            "cy": 187.5
+        },
+        "color_hsv": [
+            110,
+            3,
+            189
+        ],
+        "color_bgr": [
+            189,
+            188,
+            187
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "id": 0,
+        "text": "Daling Auetion in Wabash Cafe",
+        "filename": "layer_00_Daling Auetion in Wabash Cafe.png",
+        "position": {
+            "x_min": 28,
+            "y_min": 29,
+            "x_max": 389,
+            "y_max": 62
+        },
+        "dimension": {
+            "width": 361,
+            "height": 33
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 208.5,
+            "cy": 45.5
+        },
+        "color_hsv": [
+            150,
+            2,
+            212
+        ],
+        "color_bgr": [
+            212,
+            210,
+            212
+        ]
+    },
+    {
+        "id": 1,
+        "text": "spuny bustel ste em. for Cape May Merdical Center.",
+        "filename": "layer_01_spuny bustel ste em. for Cape .png",
+        "position": {
+            "x_min": 105,
+            "y_min": 100,
+            "x_max": 336,
+            "y_max": 137
+        },
+        "dimension": {
+            "width": 231,
+            "height": 37
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 220.5,
+            "cy": 118.5
+        },
+        "color_hsv": [
+            20,
+            4,
+            203
+        ],
+        "color_bgr": [
+            200,
+            202,
+            203
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Attend to $20 Donation",
+        "filename": "layer_02_Attend to $20 Donation.png",
+        "position": {
+            "x_min": 797,
+            "y_min": 94,
+            "x_max": 824,
+            "y_max": 219
+        },
+        "dimension": {
+            "width": 27,
+            "height": 125
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 810.5,
+            "cy": 156.5
+        },
+        "color_hsv": [
+            20,
+            5,
+            179
+        ],
+        "color_bgr": [
+            175,
+            178,
+            179
+        ]
+    }
+]

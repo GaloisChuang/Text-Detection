@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "text": "Dating Auction in Wabash Cafe",
+        "filename": "layer_00_Dating Auction in Wabash Cafe.png",
+        "position": {
+            "x_min": 42,
+            "y_min": 21,
+            "x_max": 205,
+            "y_max": 76
+        },
+        "dimension": {
+            "width": 163,
+            "height": 55
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 123.5,
+            "cy": 48.5
+        },
+        "color_hsv": [
+            150,
+            3,
+            198
+        ],
+        "color_bgr": [
+            198,
+            196,
+            198
+        ]
+    },
+    {
+        "id": 1,
+        "text": "HL9",
+        "filename": "layer_01_HL9.png",
+        "position": {
+            "x_min": 15,
+            "y_min": 193,
+            "x_max": 32,
+            "y_max": 220
+        },
+        "dimension": {
+            "width": 17,
+            "height": 27
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 23.5,
+            "cy": 206.5
+        },
+        "color_hsv": [
+            150,
+            3,
+            204
+        ],
+        "color_bgr": [
+            204,
+            202,
+            204
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Charity Event We are raising fund for Cape May MedicalCenter?y",
+        "filename": "layer_02_Charity Event We are raising f.png",
+        "position": {
+            "x_min": 57,
+            "y_min": 311,
+            "x_max": 304,
+            "y_max": 389
+        },
+        "dimension": {
+            "width": 247,
+            "height": 78
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 180.5,
+            "cy": 350.0
+        },
+        "color_hsv": [
+            167,
+            13,
+            255
+        ],
+        "color_bgr": [
+            248,
+            242,
+            255
+        ]
+    },
+    {
+        "id": 3,
+        "text": "$20 Dcnation to Attend 600 PM -9:00 PM CALL US: +84 392 222 3982",
+        "filename": "layer_03_$20 Dcnation to Attend 600 PM .png",
+        "position": {
+            "x_min": 43,
+            "y_min": 432,
+            "x_max": 339,
+            "y_max": 493
+        },
+        "dimension": {
+            "width": 296,
+            "height": 61
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 191.0,
+            "cy": 462.5
+        },
+        "color_hsv": [
+            0,
+            20,
+            194
+        ],
+        "color_bgr": [
+            179,
+            179,
+            194
+        ]
+    }
+]

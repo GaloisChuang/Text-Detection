@@ -1,0 +1,422 @@
+[
+    {
+        "id": 0,
+        "text": "BOYNTON",
+        "score": 0.9899006485939026,
+        "position": {
+            "x_min": 38,
+            "y_min": 41,
+            "x_max": 124,
+            "y_max": 62
+        },
+        "dimension": {
+            "width": 86,
+            "height": 21
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 81.0,
+            "cy": 51.5
+        },
+        "color_hsv": [
+            90,
+            18,
+            123
+        ],
+        "color_bgr": [
+            123,
+            123,
+            114
+        ]
+    },
+    {
+        "id": 1,
+        "text": "17",
+        "score": 0.9995644688606262,
+        "position": {
+            "x_min": 243,
+            "y_min": 45,
+            "x_max": 304,
+            "y_max": 90
+        },
+        "dimension": {
+            "width": 61,
+            "height": 45
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 273.5,
+            "cy": 67.5
+        },
+        "color_hsv": [
+            177,
+            20,
+            255
+        ],
+        "color_bgr": [
+            237,
+            235,
+            255
+        ]
+    },
+    {
+        "id": 2,
+        "text": "CoNfEREnce",
+        "score": 0.619508683681488,
+        "position": {
+            "x_min": 38,
+            "y_min": 57,
+            "x_max": 142,
+            "y_max": 75
+        },
+        "dimension": {
+            "width": 104,
+            "height": 18
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 90.0,
+            "cy": 66.0
+        },
+        "color_hsv": [
+            93,
+            16,
+            180
+        ],
+        "color_bgr": [
+            180,
+            179,
+            169
+        ]
+    },
+    {
+        "id": 3,
+        "text": "SAVE THE OCEAN!",
+        "score": 0.976699709892273,
+        "position": {
+            "x_min": 54,
+            "y_min": 83,
+            "x_max": 166,
+            "y_max": 100
+        },
+        "dimension": {
+            "width": 112,
+            "height": 17
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 110.0,
+            "cy": 91.5
+        },
+        "color_hsv": [
+            165,
+            3,
+            170
+        ],
+        "color_bgr": [
+            169,
+            168,
+            170
+        ]
+    },
+    {
+        "id": 4,
+        "text": "JULY",
+        "score": 0.9978521466255188,
+        "position": {
+            "x_min": 246,
+            "y_min": 86,
+            "x_max": 299,
+            "y_max": 110
+        },
+        "dimension": {
+            "width": 53,
+            "height": 24
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 272.5,
+            "cy": 98.0
+        },
+        "color_hsv": [
+            179,
+            72,
+            255
+        ],
+        "color_bgr": [
+            185,
+            183,
+            255
+        ]
+    },
+    {
+        "id": 5,
+        "text": "1FM=6 PM ",
+        "score": 0.6781128644943237,
+        "position": {
+            "x_min": 248,
+            "y_min": 107,
+            "x_max": 298,
+            "y_max": 125
+        },
+        "dimension": {
+            "width": 50,
+            "height": 18
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 273.0,
+            "cy": 116.0
+        },
+        "color_hsv": [
+            179,
+            131,
+            234
+        ],
+        "color_bgr": [
+            118,
+            114,
+            234
+        ]
+    },
+    {
+        "id": 6,
+        "text": "ThE",
+        "score": 0.6708347201347351,
+        "position": {
+            "x_min": 31,
+            "y_min": 276,
+            "x_max": 108,
+            "y_max": 306
+        },
+        "dimension": {
+            "width": 77,
+            "height": 30
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 69.5,
+            "cy": 291.0
+        },
+        "color_hsv": [
+            165,
+            5,
+            106
+        ],
+        "color_bgr": [
+            105,
+            104,
+            106
+        ]
+    },
+    {
+        "id": 7,
+        "text": " OcEan",
+        "score": 0.6738927960395813,
+        "position": {
+            "x_min": 106,
+            "y_min": 277,
+            "x_max": 233,
+            "y_max": 306
+        },
+        "dimension": {
+            "width": 127,
+            "height": 29
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 169.5,
+            "cy": 291.5
+        },
+        "color_hsv": [
+            165,
+            8,
+            83
+        ],
+        "color_bgr": [
+            82,
+            80,
+            83
+        ]
+    },
+    {
+        "id": 8,
+        "text": "1",
+        "score": 0.9320470690727234,
+        "position": {
+            "x_min": 100,
+            "y_min": 310,
+            "x_max": 127,
+            "y_max": 326
+        },
+        "dimension": {
+            "width": 27,
+            "height": 16
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 113.5,
+            "cy": 318.0
+        },
+        "color_hsv": [
+            0,
+            0,
+            186
+        ],
+        "color_bgr": [
+            186,
+            186,
+            186
+        ]
+    },
+    {
+        "id": 9,
+        "text": "N",
+        "score": 0.9781283736228943,
+        "position": {
+            "x_min": 119,
+            "y_min": 309,
+            "x_max": 139,
+            "y_max": 326
+        },
+        "dimension": {
+            "width": 20,
+            "height": 17
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 129.0,
+            "cy": 317.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            241
+        ],
+        "color_bgr": [
+            241,
+            241,
+            241
+        ]
+    },
+    {
+        "id": 10,
+        "text": "DAN",
+        "score": 0.9770085215568542,
+        "position": {
+            "x_min": 166,
+            "y_min": 307,
+            "x_max": 241,
+            "y_max": 328
+        },
+        "dimension": {
+            "width": 75,
+            "height": 21
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 203.5,
+            "cy": 317.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            243
+        ],
+        "color_bgr": [
+            243,
+            243,
+            243
+        ]
+    },
+    {
+        "id": 11,
+        "text": "R",
+        "score": 0.981342077255249,
+        "position": {
+            "x_min": 296,
+            "y_min": 311,
+            "x_max": 314,
+            "y_max": 325
+        },
+        "dimension": {
+            "width": 18,
+            "height": 14
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 305.0,
+            "cy": 318.0
+        },
+        "color_hsv": [
+            0,
+            0,
+            254
+        ],
+        "color_bgr": [
+            254,
+            254,
+            254
+        ]
+    },
+    {
+        "id": 12,
+        "text": "RECISTER AS",
+        "score": 0.9817977547645569,
+        "position": {
+            "x_min": 38,
+            "y_min": 357,
+            "x_max": 115,
+            "y_max": 377
+        },
+        "dimension": {
+            "width": 77,
+            "height": 20
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 76.5,
+            "cy": 367.0
+        },
+        "color_hsv": [
+            178,
+            42,
+            255
+        ],
+        "color_bgr": [
+            216,
+            213,
+            255
+        ]
+    },
+    {
+        "id": 13,
+        "text": "EACH VEAR",
+        "score": 0.9273630976676941,
+        "position": {
+            "x_min": 177,
+            "y_min": 356,
+            "x_max": 245,
+            "y_max": 377
+        },
+        "dimension": {
+            "width": 68,
+            "height": 21
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 211.0,
+            "cy": 366.5
+        },
+        "color_hsv": [
+            177,
+            40,
+            255
+        ],
+        "color_bgr": [
+            219,
+            215,
+            255
+        ]
+    }
+]

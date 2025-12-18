@@ -1,0 +1,182 @@
+[
+    {
+        "id": 0,
+        "text": "THE CARE OF HUMAN LIFE AND",
+        "score": 0.9943109154701233,
+        "position": {
+            "x_min": 65,
+            "y_min": 30,
+            "x_max": 598,
+            "y_max": 82
+        },
+        "dimension": {
+            "width": 533,
+            "height": 52
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 331.5,
+            "cy": 56.0
+        },
+        "color_hsv": [
+            171,
+            11,
+            255
+        ],
+        "color_bgr": [
+            247,
+            244,
+            255
+        ]
+    },
+    {
+        "id": 1,
+        "text": "HAPPINESS IS THE FIRST AND",
+        "score": 0.988032341003418,
+        "position": {
+            "x_min": 67,
+            "y_min": 87,
+            "x_max": 578,
+            "y_max": 136
+        },
+        "dimension": {
+            "width": 511,
+            "height": 49
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 322.5,
+            "cy": 111.5
+        },
+        "color_hsv": [
+            170,
+            11,
+            255
+        ],
+        "color_bgr": [
+            248,
+            244,
+            255
+        ]
+    },
+    {
+        "id": 2,
+        "text": "ONLY LEGITIMATE OBJECTIVE OF",
+        "score": 0.9917556047439575,
+        "position": {
+            "x_min": 68,
+            "y_min": 142,
+            "x_max": 622,
+            "y_max": 188
+        },
+        "dimension": {
+            "width": 554,
+            "height": 46
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 345.0,
+            "cy": 165.0
+        },
+        "color_hsv": [
+            90,
+            13,
+            255
+        ],
+        "color_bgr": [
+            255,
+            255,
+            242
+        ]
+    },
+    {
+        "id": 3,
+        "text": "JEFFERSON",
+        "score": 0.9933034181594849,
+        "position": {
+            "x_min": 799,
+            "y_min": 167,
+            "x_max": 831,
+            "y_max": 285
+        },
+        "dimension": {
+            "width": 32,
+            "height": 118
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 815.0,
+            "cy": 226.0
+        },
+        "color_hsv": [
+            101,
+            59,
+            255
+        ],
+        "color_bgr": [
+            255,
+            233,
+            196
+        ]
+    },
+    {
+        "id": 4,
+        "text": "GOOD GOVERNMENT.",
+        "score": 0.9889155626296997,
+        "position": {
+            "x_min": 65,
+            "y_min": 194,
+            "x_max": 430,
+            "y_max": 246
+        },
+        "dimension": {
+            "width": 365,
+            "height": 52
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 247.5,
+            "cy": 220.0
+        },
+        "color_hsv": [
+            90,
+            15,
+            255
+        ],
+        "color_bgr": [
+            255,
+            255,
+            240
+        ]
+    },
+    {
+        "id": 5,
+        "text": "THOMAS",
+        "score": 0.8961327075958252,
+        "position": {
+            "x_min": 771,
+            "y_min": 193,
+            "x_max": 804,
+            "y_max": 287
+        },
+        "dimension": {
+            "width": 33,
+            "height": 94
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 787.5,
+            "cy": 240.0
+        },
+        "color_hsv": [
+            101,
+            54,
+            255
+        ],
+        "color_bgr": [
+            255,
+            235,
+            201
+        ]
+    }
+]

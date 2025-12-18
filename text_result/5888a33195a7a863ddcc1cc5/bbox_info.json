@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "text": "C",
+        "filename": "layer_00_C.png",
+        "position": {
+            "x_min": 827,
+            "y_min": 39,
+            "x_max": 850,
+            "y_max": 62
+        },
+        "dimension": {
+            "width": 23,
+            "height": 23
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 838.5,
+            "cy": 50.5
+        },
+        "color_hsv": [
+            6,
+            10,
+            117
+        ],
+        "color_bgr": [
+            112,
+            113,
+            117
+        ]
+    }
+]

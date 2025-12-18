@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "text": "Civic Crowdfunding",
+        "score": 0.9989206790924072,
+        "position": {
+            "x_min": 208,
+            "y_min": 12,
+            "x_max": 672,
+            "y_max": 72
+        },
+        "dimension": {
+            "width": 464,
+            "height": 60
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 440.0,
+            "cy": 42.0
+        },
+        "color_hsv": [
+            79,
+            14,
+            255
+        ],
+        "color_bgr": [
+            250,
+            255,
+            241
+        ]
+    },
+    {
+        "id": 1,
+        "text": "Platform",
+        "score": 0.995901882648468,
+        "position": {
+            "x_min": 211,
+            "y_min": 71,
+            "x_max": 417,
+            "y_max": 117
+        },
+        "dimension": {
+            "width": 206,
+            "height": 46
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 314.0,
+            "cy": 94.0
+        },
+        "color_hsv": [
+            79,
+            13,
+            255
+        ],
+        "color_bgr": [
+            250,
+            255,
+            242
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Visit, choose from the variety of social projects",
+        "score": 0.9831346869468689,
+        "position": {
+            "x_min": 283,
+            "y_min": 157,
+            "x_max": 808,
+            "y_max": 188
+        },
+        "dimension": {
+            "width": 525,
+            "height": 31
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 545.5,
+            "cy": 172.5
+        },
+        "color_hsv": [
+            78,
+            84,
+            235
+        ],
+        "color_bgr": [
+            204,
+            235,
+            158
+        ]
+    },
+    {
+        "id": 3,
+        "text": " and donate as much as you wish.",
+        "score": 0.9564499855041504,
+        "position": {
+            "x_min": 428,
+            "y_min": 187,
+            "x_max": 806,
+            "y_max": 218
+        },
+        "dimension": {
+            "width": 378,
+            "height": 31
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 617.0,
+            "cy": 202.5
+        },
+        "color_hsv": [
+            77,
+            80,
+            232
+        ],
+        "color_bgr": [
+            200,
+            232,
+            159
+        ]
+    }
+]

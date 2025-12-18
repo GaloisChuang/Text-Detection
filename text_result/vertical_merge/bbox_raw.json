@@ -1,0 +1,242 @@
+[
+    {
+        "id": 0,
+        "text": "Charity",
+        "score": 0.9983217120170593,
+        "position": {
+            "x_min": 466,
+            "y_min": 33,
+            "x_max": 852,
+            "y_max": 163
+        },
+        "dimension": {
+            "width": 386,
+            "height": 130
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 659.0,
+            "cy": 98.0
+        },
+        "color_hsv": [
+            26,
+            235,
+            241
+        ],
+        "color_bgr": [
+            19,
+            211,
+            241
+        ]
+    },
+    {
+        "id": 1,
+        "text": "Music",
+        "score": 0.9964485168457031,
+        "position": {
+            "x_min": 475,
+            "y_min": 158,
+            "x_max": 777,
+            "y_max": 245
+        },
+        "dimension": {
+            "width": 302,
+            "height": 87
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 626.0,
+            "cy": 201.5
+        },
+        "color_hsv": [
+            173,
+            29,
+            35
+        ],
+        "color_bgr": [
+            32,
+            31,
+            35
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Fest.",
+        "score": 0.9943307042121887,
+        "position": {
+            "x_min": 772,
+            "y_min": 152,
+            "x_max": 1021,
+            "y_max": 252
+        },
+        "dimension": {
+            "width": 249,
+            "height": 100
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 896.5,
+            "cy": 202.0
+        },
+        "color_hsv": [
+            173,
+            29,
+            35
+        ],
+        "color_bgr": [
+            32,
+            31,
+            35
+        ]
+    },
+    {
+        "id": 3,
+        "text": " Listen and Donate",
+        "score": 0.9677186608314514,
+        "position": {
+            "x_min": 769,
+            "y_min": 241,
+            "x_max": 945,
+            "y_max": 268
+        },
+        "dimension": {
+            "width": 176,
+            "height": 27
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 857.0,
+            "cy": 254.5
+        },
+        "color_hsv": [
+            165,
+            3,
+            162
+        ],
+        "color_bgr": [
+            161,
+            160,
+            162
+        ]
+    },
+    {
+        "id": 4,
+        "text": "2018/",
+        "score": 0.9990748167037964,
+        "position": {
+            "x_min": 73,
+            "y_min": 306,
+            "x_max": 296,
+            "y_max": 397
+        },
+        "dimension": {
+            "width": 223,
+            "height": 91
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 184.5,
+            "cy": 351.5
+        },
+        "color_hsv": [
+            24,
+            189,
+            44
+        ],
+        "color_bgr": [
+            11,
+            37,
+            44
+        ]
+    },
+    {
+        "id": 5,
+        "text": " 2301 Aima Rd, Baltimore, MD",
+        "score": 0.9167776107788086,
+        "position": {
+            "x_min": 64,
+            "y_min": 426,
+            "x_max": 298,
+            "y_max": 451
+        },
+        "dimension": {
+            "width": 234,
+            "height": 25
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 181.0,
+            "cy": 438.5
+        },
+        "color_hsv": [
+            98,
+            39,
+            236
+        ],
+        "color_bgr": [
+            236,
+            226,
+            200
+        ]
+    },
+    {
+        "id": 6,
+        "text": "We are looking for sponsors!",
+        "score": 0.982761800289154,
+        "position": {
+            "x_min": 65,
+            "y_min": 445,
+            "x_max": 294,
+            "y_max": 470
+        },
+        "dimension": {
+            "width": 229,
+            "height": 25
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 179.5,
+            "cy": 457.5
+        },
+        "color_hsv": [
+            98,
+            62,
+            236
+        ],
+        "color_bgr": [
+            236,
+            221,
+            179
+        ]
+    },
+    {
+        "id": 7,
+        "text": "Please cal 74 2716-9172-37",
+        "score": 0.9479779601097107,
+        "position": {
+            "x_min": 67,
+            "y_min": 466,
+            "x_max": 281,
+            "y_max": 487
+        },
+        "dimension": {
+            "width": 214,
+            "height": 21
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 174.0,
+            "cy": 476.5
+        },
+        "color_hsv": [
+            98,
+            57,
+            236
+        ],
+        "color_bgr": [
+            236,
+            222,
+            183
+        ]
+    }
+]

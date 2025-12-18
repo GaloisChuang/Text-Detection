@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "text": "THE CARE OF HUMAN LIFE AND HAPPINESS IS THE FIRST AND ONLY LEGITIMATE OBJECTIVE OF GOOD GOVERNMENT.",
+        "filename": "layer_00_THE CARE OF HUMAN LIFE AND HAP.png",
+        "position": {
+            "x_min": 65,
+            "y_min": 30,
+            "x_max": 622,
+            "y_max": 246
+        },
+        "dimension": {
+            "width": 557,
+            "height": 216
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 343.5,
+            "cy": 138.0
+        },
+        "color_hsv": [
+            171,
+            11,
+            255
+        ],
+        "color_bgr": [
+            247,
+            244,
+            255
+        ]
+    },
+    {
+        "id": 1,
+        "text": "THOMAS JEFFERSON",
+        "filename": "layer_01_THOMAS JEFFERSON.png",
+        "position": {
+            "x_min": 771,
+            "y_min": 167,
+            "x_max": 831,
+            "y_max": 287
+        },
+        "dimension": {
+            "width": 60,
+            "height": 120
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 801.0,
+            "cy": 227.0
+        },
+        "color_hsv": [
+            101,
+            54,
+            255
+        ],
+        "color_bgr": [
+            255,
+            235,
+            201
+        ]
+    }
+]

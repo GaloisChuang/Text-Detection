@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "text": "Big Fall Volunteer",
+        "filename": "layer_00_Big Fall Volunteer.png",
+        "position": {
+            "x_min": 39,
+            "y_min": 23,
+            "x_max": 328,
+            "y_max": 60
+        },
+        "dimension": {
+            "width": 289,
+            "height": 37
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 183.5,
+            "cy": 41.5
+        },
+        "color_hsv": [
+            176,
+            22,
+            255
+        ],
+        "color_bgr": [
+            236,
+            233,
+            255
+        ]
+    },
+    {
+        "id": 1,
+        "text": "Cleanup",
+        "filename": "layer_01_Cleanup.png",
+        "position": {
+            "x_min": 55,
+            "y_min": 67,
+            "x_max": 303,
+            "y_max": 126
+        },
+        "dimension": {
+            "width": 248,
+            "height": 59
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 179.0,
+            "cy": 96.5
+        },
+        "color_hsv": [
+            173,
+            104,
+            39
+        ],
+        "color_bgr": [
+            27,
+            23,
+            39
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Meet the winter. Clear a spaee for some snow.",
+        "filename": "layer_02_Meet the winter. Clear a spaee.png",
+        "position": {
+            "x_min": 70,
+            "y_min": 135,
+            "x_max": 287,
+            "y_max": 177
+        },
+        "dimension": {
+            "width": 217,
+            "height": 42
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 178.5,
+            "cy": 156.0
+        },
+        "color_hsv": [
+            178,
+            55,
+            255
+        ],
+        "color_bgr": [
+            204,
+            200,
+            255
+        ]
+    },
+    {
+        "id": 3,
+        "text": "h Salwla, h map",
+        "filename": "layer_03_h Salwla, h map.png",
+        "position": {
+            "x_min": 35,
+            "y_min": 357,
+            "x_max": 119,
+            "y_max": 408
+        },
+        "dimension": {
+            "width": 84,
+            "height": 51
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 77.0,
+            "cy": 382.5
+        },
+        "color_hsv": [
+            26,
+            140,
+            200
+        ],
+        "color_bgr": [
+            90,
+            185,
+            200
+        ]
+    }
+]

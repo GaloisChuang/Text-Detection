@@ -1,0 +1,92 @@
+[
+    {
+        "id": 0,
+        "text": "THE CARE OF HUMAN LIFE AND HAPPINESS IS THE FIRST AND ONLY",
+        "filename": "layer_00_THE CARE OF HUMAN LIFE AND HAP.png",
+        "position": {
+            "x_min": 32,
+            "y_min": 33,
+            "x_max": 318,
+            "y_max": 284
+        },
+        "dimension": {
+            "width": 286,
+            "height": 251
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 175.0,
+            "cy": 158.5
+        },
+        "color_hsv": [
+            170,
+            13,
+            255
+        ],
+        "color_bgr": [
+            246,
+            242,
+            255
+        ]
+    },
+    {
+        "id": 1,
+        "text": "JEFFERSON",
+        "filename": "layer_01_JEFFERSON.png",
+        "position": {
+            "x_min": 319,
+            "y_min": 266,
+            "x_max": 341,
+            "y_max": 341
+        },
+        "dimension": {
+            "width": 22,
+            "height": 75
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 330.0,
+            "cy": 303.5
+        },
+        "color_hsv": [
+            102,
+            89,
+            226
+        ],
+        "color_bgr": [
+            226,
+            194,
+            147
+        ]
+    },
+    {
+        "id": 2,
+        "text": "LEGITIMATE OBJECTIVE OF GOOD GOVERNMENT.",
+        "filename": "layer_02_LEGITIMATE OBJECTIVE OF GOOD G.png",
+        "position": {
+            "x_min": 31,
+            "y_min": 284,
+            "x_max": 283,
+            "y_max": 484
+        },
+        "dimension": {
+            "width": 252,
+            "height": 200
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 157.0,
+            "cy": 384.0
+        },
+        "color_hsv": [
+            94,
+            19,
+            255
+        ],
+        "color_bgr": [
+            255,
+            252,
+            236
+        ]
+    }
+]

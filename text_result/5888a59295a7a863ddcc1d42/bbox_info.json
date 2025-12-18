@@ -1,0 +1,272 @@
+[
+    {
+        "id": 0,
+        "text": "BOYNTON",
+        "filename": "layer_00_BOYNTON.png",
+        "position": {
+            "x_min": 38,
+            "y_min": 41,
+            "x_max": 124,
+            "y_max": 62
+        },
+        "dimension": {
+            "width": 86,
+            "height": 21
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 81.0,
+            "cy": 51.5
+        },
+        "color_hsv": [
+            90,
+            18,
+            123
+        ],
+        "color_bgr": [
+            123,
+            123,
+            114
+        ]
+    },
+    {
+        "id": 1,
+        "text": "SAVE THE OCEAN! CoNfEREnce 17",
+        "filename": "layer_01_SAVE THE OCEAN! CoNfEREnce 17.png",
+        "position": {
+            "x_min": 38,
+            "y_min": 45,
+            "x_max": 304,
+            "y_max": 100
+        },
+        "dimension": {
+            "width": 266,
+            "height": 55
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 171.0,
+            "cy": 72.5
+        },
+        "color_hsv": [
+            93,
+            16,
+            180
+        ],
+        "color_bgr": [
+            180,
+            179,
+            169
+        ]
+    },
+    {
+        "id": 2,
+        "text": "JULY",
+        "filename": "layer_02_JULY.png",
+        "position": {
+            "x_min": 246,
+            "y_min": 86,
+            "x_max": 299,
+            "y_max": 110
+        },
+        "dimension": {
+            "width": 53,
+            "height": 24
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 272.5,
+            "cy": 98.0
+        },
+        "color_hsv": [
+            179,
+            72,
+            255
+        ],
+        "color_bgr": [
+            185,
+            183,
+            255
+        ]
+    },
+    {
+        "id": 3,
+        "text": "1FM=6 PM ",
+        "filename": "layer_03_1FM=6 PM .png",
+        "position": {
+            "x_min": 248,
+            "y_min": 107,
+            "x_max": 298,
+            "y_max": 125
+        },
+        "dimension": {
+            "width": 50,
+            "height": 18
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 273.0,
+            "cy": 116.0
+        },
+        "color_hsv": [
+            179,
+            131,
+            234
+        ],
+        "color_bgr": [
+            118,
+            114,
+            234
+        ]
+    },
+    {
+        "id": 4,
+        "text": "ThE  OcEan",
+        "filename": "layer_04_ThE  OcEan.png",
+        "position": {
+            "x_min": 31,
+            "y_min": 276,
+            "x_max": 233,
+            "y_max": 306
+        },
+        "dimension": {
+            "width": 202,
+            "height": 30
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 132.0,
+            "cy": 291.0
+        },
+        "color_hsv": [
+            165,
+            5,
+            106
+        ],
+        "color_bgr": [
+            105,
+            104,
+            106
+        ]
+    },
+    {
+        "id": 5,
+        "text": "DAN R",
+        "filename": "layer_05_DAN R.png",
+        "position": {
+            "x_min": 166,
+            "y_min": 307,
+            "x_max": 314,
+            "y_max": 328
+        },
+        "dimension": {
+            "width": 148,
+            "height": 21
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 240.0,
+            "cy": 317.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            243
+        ],
+        "color_bgr": [
+            243,
+            243,
+            243
+        ]
+    },
+    {
+        "id": 6,
+        "text": "N",
+        "filename": "layer_06_N.png",
+        "position": {
+            "x_min": 119,
+            "y_min": 309,
+            "x_max": 139,
+            "y_max": 326
+        },
+        "dimension": {
+            "width": 20,
+            "height": 17
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 129.0,
+            "cy": 317.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            241
+        ],
+        "color_bgr": [
+            241,
+            241,
+            241
+        ]
+    },
+    {
+        "id": 7,
+        "text": "1",
+        "filename": "layer_07_1.png",
+        "position": {
+            "x_min": 100,
+            "y_min": 310,
+            "x_max": 127,
+            "y_max": 326
+        },
+        "dimension": {
+            "width": 27,
+            "height": 16
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 113.5,
+            "cy": 318.0
+        },
+        "color_hsv": [
+            0,
+            0,
+            186
+        ],
+        "color_bgr": [
+            186,
+            186,
+            186
+        ]
+    },
+    {
+        "id": 8,
+        "text": "RECISTER AS EACH VEAR",
+        "filename": "layer_08_RECISTER AS EACH VEAR.png",
+        "position": {
+            "x_min": 38,
+            "y_min": 356,
+            "x_max": 245,
+            "y_max": 377
+        },
+        "dimension": {
+            "width": 207,
+            "height": 21
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 141.5,
+            "cy": 366.5
+        },
+        "color_hsv": [
+            178,
+            42,
+            255
+        ],
+        "color_bgr": [
+            216,
+            213,
+            255
+        ]
+    }
+]

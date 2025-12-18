@@ -1,0 +1,302 @@
+[
+    {
+        "id": 0,
+        "text": "THE CARE OF",
+        "score": 0.9981462955474854,
+        "position": {
+            "x_min": 32,
+            "y_min": 33,
+            "x_max": 261,
+            "y_max": 84
+        },
+        "dimension": {
+            "width": 229,
+            "height": 51
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 146.5,
+            "cy": 58.5
+        },
+        "color_hsv": [
+            170,
+            13,
+            255
+        ],
+        "color_bgr": [
+            246,
+            242,
+            255
+        ]
+    },
+    {
+        "id": 1,
+        "text": "HUMAN LIFE",
+        "score": 0.9797075390815735,
+        "position": {
+            "x_min": 34,
+            "y_min": 86,
+            "x_max": 250,
+            "y_max": 133
+        },
+        "dimension": {
+            "width": 216,
+            "height": 47
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 142.0,
+            "cy": 109.5
+        },
+        "color_hsv": [
+            173,
+            13,
+            255
+        ],
+        "color_bgr": [
+            245,
+            242,
+            255
+        ]
+    },
+    {
+        "id": 2,
+        "text": "AND HAPPINESS",
+        "score": 0.9983505606651306,
+        "position": {
+            "x_min": 33,
+            "y_min": 133,
+            "x_max": 318,
+            "y_max": 183
+        },
+        "dimension": {
+            "width": 285,
+            "height": 50
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 175.5,
+            "cy": 158.0
+        },
+        "color_hsv": [
+            102,
+            15,
+            255
+        ],
+        "color_bgr": [
+            255,
+            249,
+            240
+        ]
+    },
+    {
+        "id": 3,
+        "text": "IS THE FIRST",
+        "score": 0.9953381419181824,
+        "position": {
+            "x_min": 32,
+            "y_min": 181,
+            "x_max": 259,
+            "y_max": 233
+        },
+        "dimension": {
+            "width": 227,
+            "height": 52
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 145.5,
+            "cy": 207.0
+        },
+        "color_hsv": [
+            102,
+            19,
+            255
+        ],
+        "color_bgr": [
+            255,
+            247,
+            236
+        ]
+    },
+    {
+        "id": 4,
+        "text": "AND ONLY",
+        "score": 0.9500364065170288,
+        "position": {
+            "x_min": 33,
+            "y_min": 233,
+            "x_max": 217,
+            "y_max": 284
+        },
+        "dimension": {
+            "width": 184,
+            "height": 51
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 125.0,
+            "cy": 258.5
+        },
+        "color_hsv": [
+            90,
+            15,
+            255
+        ],
+        "color_bgr": [
+            255,
+            255,
+            240
+        ]
+    },
+    {
+        "id": 5,
+        "text": "JEFFERSON",
+        "score": 0.9248555302619934,
+        "position": {
+            "x_min": 319,
+            "y_min": 266,
+            "x_max": 341,
+            "y_max": 341
+        },
+        "dimension": {
+            "width": 22,
+            "height": 75
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 330.0,
+            "cy": 303.5
+        },
+        "color_hsv": [
+            102,
+            89,
+            226
+        ],
+        "color_bgr": [
+            226,
+            194,
+            147
+        ]
+    },
+    {
+        "id": 6,
+        "text": "LEGITIMATE",
+        "score": 0.9970226287841797,
+        "position": {
+            "x_min": 33,
+            "y_min": 284,
+            "x_max": 238,
+            "y_max": 334
+        },
+        "dimension": {
+            "width": 205,
+            "height": 50
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 135.5,
+            "cy": 309.0
+        },
+        "color_hsv": [
+            94,
+            19,
+            255
+        ],
+        "color_bgr": [
+            255,
+            252,
+            236
+        ]
+    },
+    {
+        "id": 7,
+        "text": "OBJECTIVE",
+        "score": 0.9988280534744263,
+        "position": {
+            "x_min": 33,
+            "y_min": 334,
+            "x_max": 223,
+            "y_max": 381
+        },
+        "dimension": {
+            "width": 190,
+            "height": 47
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 128.0,
+            "cy": 357.5
+        },
+        "color_hsv": [
+            91,
+            18,
+            255
+        ],
+        "color_bgr": [
+            255,
+            254,
+            237
+        ]
+    },
+    {
+        "id": 8,
+        "text": "OF GOOD",
+        "score": 0.9401232600212097,
+        "position": {
+            "x_min": 32,
+            "y_min": 383,
+            "x_max": 191,
+            "y_max": 431
+        },
+        "dimension": {
+            "width": 159,
+            "height": 48
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 111.5,
+            "cy": 407.0
+        },
+        "color_hsv": [
+            90,
+            16,
+            255
+        ],
+        "color_bgr": [
+            255,
+            255,
+            239
+        ]
+    },
+    {
+        "id": 9,
+        "text": "GOVERNMENT.",
+        "score": 0.9791200160980225,
+        "position": {
+            "x_min": 31,
+            "y_min": 431,
+            "x_max": 283,
+            "y_max": 484
+        },
+        "dimension": {
+            "width": 252,
+            "height": 53
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 157.0,
+            "cy": 457.5
+        },
+        "color_hsv": [
+            100,
+            17,
+            255
+        ],
+        "color_bgr": [
+            255,
+            249,
+            238
+        ]
+    }
+]

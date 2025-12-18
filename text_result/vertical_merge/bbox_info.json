@@ -1,0 +1,152 @@
+[
+    {
+        "id": 0,
+        "text": "2018/",
+        "filename": "layer_00_2018.png",
+        "position": {
+            "x_min": 73,
+            "y_min": 306,
+            "x_max": 296,
+            "y_max": 397
+        },
+        "dimension": {
+            "width": 223,
+            "height": 91
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 184.5,
+            "cy": 351.5
+        },
+        "color_hsv": [
+            24,
+            189,
+            44
+        ],
+        "color_bgr": [
+            11,
+            37,
+            44
+        ]
+    },
+    {
+        "id": 1,
+        "text": " 2301 Aima Rd, Baltimore, MD We are looking for sponsors! Please cal 74 2716-9172-37",
+        "filename": "layer_01_ 2301 Aima Rd, Baltimore, MD W.png",
+        "position": {
+            "x_min": 64,
+            "y_min": 426,
+            "x_max": 298,
+            "y_max": 487
+        },
+        "dimension": {
+            "width": 234,
+            "height": 61
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 181.0,
+            "cy": 456.5
+        },
+        "color_hsv": [
+            98,
+            39,
+            236
+        ],
+        "color_bgr": [
+            236,
+            226,
+            200
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Charity",
+        "filename": "layer_02_Charity.png",
+        "position": {
+            "x_min": 466,
+            "y_min": 33,
+            "x_max": 852,
+            "y_max": 163
+        },
+        "dimension": {
+            "width": 386,
+            "height": 130
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 659.0,
+            "cy": 98.0
+        },
+        "color_hsv": [
+            26,
+            235,
+            241
+        ],
+        "color_bgr": [
+            19,
+            211,
+            241
+        ]
+    },
+    {
+        "id": 3,
+        "text": "Music Fest.",
+        "filename": "layer_03_Music Fest..png",
+        "position": {
+            "x_min": 475,
+            "y_min": 152,
+            "x_max": 1021,
+            "y_max": 252
+        },
+        "dimension": {
+            "width": 546,
+            "height": 100
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 748.0,
+            "cy": 202.0
+        },
+        "color_hsv": [
+            173,
+            29,
+            35
+        ],
+        "color_bgr": [
+            32,
+            31,
+            35
+        ]
+    },
+    {
+        "id": 4,
+        "text": " Listen and Donate",
+        "filename": "layer_04_ Listen and Donate.png",
+        "position": {
+            "x_min": 769,
+            "y_min": 241,
+            "x_max": 945,
+            "y_max": 268
+        },
+        "dimension": {
+            "width": 176,
+            "height": 27
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 857.0,
+            "cy": 254.5
+        },
+        "color_hsv": [
+            165,
+            3,
+            162
+        ],
+        "color_bgr": [
+            161,
+            160,
+            162
+        ]
+    }
+]

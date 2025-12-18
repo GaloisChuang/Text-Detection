@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "text": "Dating Auction in Wabash Cafe",
+        "filename": "layer_00_Dating Auction in Wabash Cafe.png",
+        "position": {
+            "x_min": 108,
+            "y_min": 23,
+            "x_max": 794,
+            "y_max": 75
+        },
+        "dimension": {
+            "width": 686,
+            "height": 52
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 451.0,
+            "cy": 49.0
+        },
+        "color_hsv": [
+            30,
+            7,
+            136
+        ],
+        "color_bgr": [
+            132,
+            136,
+            136
+        ]
+    },
+    {
+        "id": 1,
+        "text": "TUESDAY IAPRIL 6TH",
+        "filename": "layer_01_TUESDAY IAPRIL 6TH.png",
+        "position": {
+            "x_min": 70,
+            "y_min": 93,
+            "x_max": 102,
+            "y_max": 366
+        },
+        "dimension": {
+            "width": 32,
+            "height": 273
+        },
+        "angle": 0.41974180936813354,
+        "center": {
+            "cx": 86.0,
+            "cy": 229.5
+        },
+        "color_hsv": [
+            20,
+            30,
+            73
+        ],
+        "color_bgr": [
+            64,
+            70,
+            73
+        ]
+    },
+    {
+        "id": 2,
+        "text": "for Cape May Medical Center. Charity Event. We are raising funds",
+        "filename": "layer_02_for Cape May Medical Center. C.png",
+        "position": {
+            "x_min": 143,
+            "y_min": 273,
+            "x_max": 756,
+            "y_max": 359
+        },
+        "dimension": {
+            "width": 613,
+            "height": 86
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 449.5,
+            "cy": 316.0
+        },
+        "color_hsv": [
+            150,
+            6,
+            255
+        ],
+        "color_bgr": [
+            255,
+            249,
+            255
+        ]
+    },
+    {
+        "id": 3,
+        "text": "$20 Donation to Artend 6:00 PM - 9:00 PM CALL US: +84-392 222.3982",
+        "filename": "layer_03_$20 Donation to Artend 600 PM .png",
+        "position": {
+            "x_min": 104,
+            "y_min": 385,
+            "x_max": 911,
+            "y_max": 485
+        },
+        "dimension": {
+            "width": 807,
+            "height": 100
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 507.5,
+            "cy": 435.0
+        },
+        "color_hsv": [
+            2,
+            29,
+            119
+        ],
+        "color_bgr": [
+            105,
+            106,
+            119
+        ]
+    }
+]

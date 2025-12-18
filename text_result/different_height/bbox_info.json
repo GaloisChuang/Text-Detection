@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "text": "NO ONE HAS EVER becOMe POOR FROM GIVINC",
+        "filename": "layer_00_NO ONE HAS EVER becOMe POOR FR.png",
+        "position": {
+            "x_min": 284,
+            "y_min": 112,
+            "x_max": 732,
+            "y_max": 319
+        },
+        "dimension": {
+            "width": 448,
+            "height": 207
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 508.0,
+            "cy": 215.5
+        },
+        "color_hsv": [
+            24,
+            123,
+            43
+        ],
+        "color_bgr": [
+            22,
+            39,
+            43
+        ]
+    },
+    {
+        "id": 1,
+        "text": "Aue Fiank",
+        "filename": "layer_01_Aue Fiank.png",
+        "position": {
+            "x_min": 428,
+            "y_min": 360,
+            "x_max": 589,
+            "y_max": 402
+        },
+        "dimension": {
+            "width": 161,
+            "height": 42
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 508.5,
+            "cy": 381.0
+        },
+        "color_hsv": [
+            26,
+            174,
+            218
+        ],
+        "color_bgr": [
+            69,
+            198,
+            218
+        ]
+    }
+]

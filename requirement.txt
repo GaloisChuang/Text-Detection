@@ -1,0 +1,24 @@
+# --- 核心框架 (Core Framework) ---
+# 使用 Python 3.10 時，PaddlePaddle 2.6.x 是最穩定的搭配
+paddlepaddle>=2.6.0
+
+# [關鍵] 鎖定 PaddleOCR 在 2.7 版本
+# 這是為了支援 rec=False 參數，且預設使用輕量化模型 (Mobile)
+paddleocr>=2.7.0,<2.8.0
+
+# --- 影像處理與科學運算 (Image & Science) ---
+# 防止 Numpy 2.0.0 (新版) 導致的相容性崩潰
+numpy<2.0.0
+
+# 影像處理
+opencv-python
+Pillow
+
+# 機器學習 (K-Means)
+scikit-learn
+
+# 視覺化繪圖
+matplotlib
+
+# --- Jupyter 整合 (Kernel) ---
+ipykernel

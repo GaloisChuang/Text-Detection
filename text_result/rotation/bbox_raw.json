@@ -1,0 +1,212 @@
+[
+    {
+        "id": 0,
+        "text": "Daling Auetion in Wabash Cafe",
+        "score": 0.9435338377952576,
+        "position": {
+            "x_min": 28,
+            "y_min": 29,
+            "x_max": 389,
+            "y_max": 62
+        },
+        "dimension": {
+            "width": 361,
+            "height": 33
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 208.5,
+            "cy": 45.5
+        },
+        "color_hsv": [
+            150,
+            2,
+            212
+        ],
+        "color_bgr": [
+            212,
+            210,
+            212
+        ]
+    },
+    {
+        "id": 1,
+        "text": "spuny bustel ste em.",
+        "score": 0.7160674333572388,
+        "position": {
+            "x_min": 137,
+            "y_min": 100,
+            "x_max": 304,
+            "y_max": 121
+        },
+        "dimension": {
+            "width": 167,
+            "height": 21
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 220.5,
+            "cy": 110.5
+        },
+        "color_hsv": [
+            20,
+            4,
+            203
+        ],
+        "color_bgr": [
+            200,
+            202,
+            203
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Donation",
+        "score": 0.9800523519515991,
+        "position": {
+            "x_min": 798,
+            "y_min": 94,
+            "x_max": 813,
+            "y_max": 156
+        },
+        "dimension": {
+            "width": 15,
+            "height": 62
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 805.5,
+            "cy": 125.0
+        },
+        "color_hsv": [
+            20,
+            5,
+            179
+        ],
+        "color_bgr": [
+            175,
+            178,
+            179
+        ]
+    },
+    {
+        "id": 3,
+        "text": "for Cape May Merdical Center.",
+        "score": 0.931142270565033,
+        "position": {
+            "x_min": 105,
+            "y_min": 116,
+            "x_max": 336,
+            "y_max": 137
+        },
+        "dimension": {
+            "width": 231,
+            "height": 21
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 220.5,
+            "cy": 126.5
+        },
+        "color_hsv": [
+            30,
+            4,
+            187
+        ],
+        "color_bgr": [
+            184,
+            187,
+            187
+        ]
+    },
+    {
+        "id": 4,
+        "text": "$20",
+        "score": 0.9849503636360168,
+        "position": {
+            "x_min": 812,
+            "y_min": 144,
+            "x_max": 824,
+            "y_max": 169
+        },
+        "dimension": {
+            "width": 12,
+            "height": 25
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 818.0,
+            "cy": 156.5
+        },
+        "color_hsv": [
+            6,
+            17,
+            173
+        ],
+        "color_bgr": [
+            161,
+            164,
+            173
+        ]
+    },
+    {
+        "id": 5,
+        "text": "to",
+        "score": 0.7345874309539795,
+        "position": {
+            "x_min": 801,
+            "y_min": 157,
+            "x_max": 810,
+            "y_max": 174
+        },
+        "dimension": {
+            "width": 9,
+            "height": 17
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 805.5,
+            "cy": 165.5
+        },
+        "color_hsv": [
+            174,
+            26,
+            141
+        ],
+        "color_bgr": [
+            129,
+            127,
+            141
+        ]
+    },
+    {
+        "id": 6,
+        "text": "Attend",
+        "score": 0.9902614951133728,
+        "position": {
+            "x_min": 797,
+            "y_min": 167,
+            "x_max": 814,
+            "y_max": 219
+        },
+        "dimension": {
+            "width": 17,
+            "height": 52
+        },
+        "angle": 86.633544921875,
+        "center": {
+            "cx": 805.5,
+            "cy": 193.0
+        },
+        "color_hsv": [
+            0,
+            22,
+            158
+        ],
+        "color_bgr": [
+            144,
+            144,
+            158
+        ]
+    }
+]

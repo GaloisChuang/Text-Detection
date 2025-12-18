@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "text": "Big Fall Volunteer",
+        "score": 0.9628784656524658,
+        "position": {
+            "x_min": 551,
+            "y_min": 75,
+            "x_max": 835,
+            "y_max": 121
+        },
+        "dimension": {
+            "width": 284,
+            "height": 46
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 693.0,
+            "cy": 98.0
+        },
+        "color_hsv": [
+            176,
+            18,
+            255
+        ],
+        "color_bgr": [
+            239,
+            237,
+            255
+        ]
+    },
+    {
+        "id": 1,
+        "text": "Cleanup",
+        "score": 0.9829049706459045,
+        "position": {
+            "x_min": 552,
+            "y_min": 114,
+            "x_max": 828,
+            "y_max": 208
+        },
+        "dimension": {
+            "width": 276,
+            "height": 94
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 690.0,
+            "cy": 161.0
+        },
+        "color_hsv": [
+            173,
+            105,
+            38
+        ],
+        "color_bgr": [
+            26,
+            22,
+            38
+        ]
+    }
+]

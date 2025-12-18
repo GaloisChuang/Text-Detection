@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "text": "ChArItYnIGhT",
+        "score": 0.6647999882698059,
+        "position": {
+            "x_min": 29,
+            "y_min": 84,
+            "x_max": 471,
+            "y_max": 115
+        },
+        "dimension": {
+            "width": 442,
+            "height": 31
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 250.0,
+            "cy": 99.5
+        },
+        "color_hsv": [
+            177,
+            145,
+            221
+        ],
+        "color_bgr": [
+            108,
+            95,
+            221
+        ]
+    },
+    {
+        "id": 1,
+        "text": "SHELTER",
+        "score": 0.9934923052787781,
+        "position": {
+            "x_min": 323,
+            "y_min": 135,
+            "x_max": 401,
+            "y_max": 156
+        },
+        "dimension": {
+            "width": 78,
+            "height": 21
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 362.0,
+            "cy": 145.5
+        },
+        "color_hsv": [
+            179,
+            52,
+            255
+        ],
+        "color_bgr": [
+            205,
+            203,
+            255
+        ]
+    },
+    {
+        "id": 2,
+        "text": "FOUDATION",
+        "score": 0.9862475991249084,
+        "position": {
+            "x_min": 325,
+            "y_min": 155,
+            "x_max": 429,
+            "y_max": 175
+        },
+        "dimension": {
+            "width": 104,
+            "height": 20
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 377.0,
+            "cy": 165.0
+        },
+        "color_hsv": [
+            178,
+            50,
+            255
+        ],
+        "color_bgr": [
+            208,
+            205,
+            255
+        ]
+    },
+    {
+        "id": 3,
+        "text": "IN Westfort",
+        "score": 0.809378445148468,
+        "position": {
+            "x_min": 324,
+            "y_min": 171,
+            "x_max": 442,
+            "y_max": 195
+        },
+        "dimension": {
+            "width": 118,
+            "height": 24
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 383.0,
+            "cy": 183.0
+        },
+        "color_hsv": [
+            178,
+            49,
+            255
+        ],
+        "color_bgr": [
+            209,
+            206,
+            255
+        ]
+    }
+]
