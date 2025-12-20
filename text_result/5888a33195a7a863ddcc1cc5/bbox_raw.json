@@ -1,32 +1,122 @@
 [
     {
         "id": 0,
-        "text": "C",
-        "score": 0.9728609323501587,
+        "text": "ZAINAB'S",
+        "score": 0.993892252445221,
         "position": {
-            "x_min": 827,
-            "y_min": 39,
-            "x_max": 850,
-            "y_max": 62
+            "x_min": 39,
+            "y_min": 35,
+            "x_max": 257,
+            "y_max": 63
         },
         "dimension": {
-            "width": 23,
-            "height": 23
+            "width": 218,
+            "height": 28
         },
-        "angle": 90.0,
+        "angle": 0.0,
         "center": {
-            "cx": 838.5,
-            "cy": 50.5
+            "cx": 148.0,
+            "cy": 49.0
         },
         "color_hsv": [
             6,
-            10,
-            117
+            170,
+            9
         ],
         "color_bgr": [
-            112,
-            113,
-            117
+            3,
+            4,
+            9
+        ]
+    },
+    {
+        "id": 1,
+        "text": "CHARITY",
+        "score": 0.9933425188064575,
+        "position": {
+            "x_min": 273,
+            "y_min": 37,
+            "x_max": 468,
+            "y_max": 61
+        },
+        "dimension": {
+            "width": 195,
+            "height": 24
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 370.5,
+            "cy": 49.0
+        },
+        "color_hsv": [
+            6,
+            170,
+            9
+        ],
+        "color_bgr": [
+            3,
+            4,
+            9
+        ]
+    },
+    {
+        "id": 2,
+        "text": "GARAGESALE",
+        "score": 0.9873955845832825,
+        "position": {
+            "x_min": 494,
+            "y_min": 32,
+            "x_max": 806,
+            "y_max": 63
+        },
+        "dimension": {
+            "width": 312,
+            "height": 31
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 650.0,
+            "cy": 47.5
+        },
+        "color_hsv": [
+            6,
+            170,
+            9
+        ],
+        "color_bgr": [
+            3,
+            4,
+            9
+        ]
+    },
+    {
+        "id": 3,
+        "text": "C",
+        "score": 0.9908678531646729,
+        "position": {
+            "x_min": 833,
+            "y_min": 42,
+            "x_max": 847,
+            "y_max": 58
+        },
+        "dimension": {
+            "width": 14,
+            "height": 16
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 840.0,
+            "cy": 50.0
+        },
+        "color_hsv": [
+            0,
+            170,
+            9
+        ],
+        "color_bgr": [
+            3,
+            3,
+            9
         ]
     }
 ]

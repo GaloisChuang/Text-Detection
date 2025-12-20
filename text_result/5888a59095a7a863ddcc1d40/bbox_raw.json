@@ -1,302 +1,362 @@
 [
     {
         "id": 0,
-        "text": "THE CARE OF",
-        "score": 0.9981462955474854,
+        "text": "THE CAREOF",
+        "score": 0.9501075744628906,
         "position": {
-            "x_min": 32,
-            "y_min": 33,
-            "x_max": 261,
-            "y_max": 84
+            "x_min": 30,
+            "y_min": 32,
+            "x_max": 259,
+            "y_max": 85
         },
         "dimension": {
             "width": 229,
-            "height": 51
+            "height": 53
         },
         "angle": 0.0,
         "center": {
-            "cx": 146.5,
+            "cx": 144.5,
             "cy": 58.5
         },
         "color_hsv": [
-            170,
-            13,
+            90,
+            7,
             255
         ],
         "color_bgr": [
-            246,
-            242,
-            255
+            255,
+            255,
+            248
         ]
     },
     {
         "id": 1,
         "text": "HUMAN LIFE",
-        "score": 0.9797075390815735,
+        "score": 0.9697128534317017,
         "position": {
-            "x_min": 34,
-            "y_min": 86,
-            "x_max": 250,
-            "y_max": 133
+            "x_min": 32,
+            "y_min": 85,
+            "x_max": 249,
+            "y_max": 132
         },
         "dimension": {
-            "width": 216,
+            "width": 217,
             "height": 47
         },
         "angle": 0.0,
         "center": {
-            "cx": 142.0,
-            "cy": 109.5
+            "cx": 140.5,
+            "cy": 108.5
         },
         "color_hsv": [
-            173,
-            13,
+            150,
+            7,
             255
         ],
         "color_bgr": [
-            245,
-            242,
+            255,
+            248,
             255
         ]
     },
     {
         "id": 2,
         "text": "AND HAPPINESS",
-        "score": 0.9983505606651306,
+        "score": 0.9577937722206116,
         "position": {
-            "x_min": 33,
-            "y_min": 133,
-            "x_max": 318,
-            "y_max": 183
+            "x_min": 29,
+            "y_min": 134,
+            "x_max": 317,
+            "y_max": 182
         },
         "dimension": {
-            "width": 285,
-            "height": 50
+            "width": 288,
+            "height": 48
         },
         "angle": 0.0,
         "center": {
-            "cx": 175.5,
+            "cx": 173.0,
             "cy": 158.0
         },
         "color_hsv": [
-            102,
-            15,
+            91,
+            9,
             255
         ],
         "color_bgr": [
             255,
-            249,
-            240
+            255,
+            246
         ]
     },
     {
         "id": 3,
-        "text": "IS THE FIRST",
-        "score": 0.9953381419181824,
+        "text": "IS THE",
+        "score": 0.953253984451294,
         "position": {
             "x_min": 32,
-            "y_min": 181,
-            "x_max": 259,
-            "y_max": 233
+            "y_min": 183,
+            "x_max": 155,
+            "y_max": 232
         },
         "dimension": {
-            "width": 227,
-            "height": 52
+            "width": 123,
+            "height": 49
         },
         "angle": 0.0,
         "center": {
-            "cx": 145.5,
-            "cy": 207.0
+            "cx": 93.5,
+            "cy": 207.5
         },
         "color_hsv": [
-            102,
-            19,
+            90,
+            11,
+            255
+        ],
+        "color_bgr": [
+            255,
+            255,
+            244
+        ]
+    },
+    {
+        "id": 4,
+        "text": "FIRST",
+        "score": 0.9925362467765808,
+        "position": {
+            "x_min": 152,
+            "y_min": 181,
+            "x_max": 260,
+            "y_max": 234
+        },
+        "dimension": {
+            "width": 108,
+            "height": 53
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 206.0,
+            "cy": 207.5
+        },
+        "color_hsv": [
+            150,
+            8,
             255
         ],
         "color_bgr": [
             255,
             247,
-            236
-        ]
-    },
-    {
-        "id": 4,
-        "text": "AND ONLY",
-        "score": 0.9500364065170288,
-        "position": {
-            "x_min": 33,
-            "y_min": 233,
-            "x_max": 217,
-            "y_max": 284
-        },
-        "dimension": {
-            "width": 184,
-            "height": 51
-        },
-        "angle": 0.0,
-        "center": {
-            "cx": 125.0,
-            "cy": 258.5
-        },
-        "color_hsv": [
-            90,
-            15,
             255
-        ],
-        "color_bgr": [
-            255,
-            255,
-            240
         ]
     },
     {
         "id": 5,
-        "text": "JEFFERSON",
-        "score": 0.9248555302619934,
-        "position": {
-            "x_min": 319,
-            "y_min": 266,
-            "x_max": 341,
-            "y_max": 341
-        },
-        "dimension": {
-            "width": 22,
-            "height": 75
-        },
-        "angle": 90.0,
-        "center": {
-            "cx": 330.0,
-            "cy": 303.5
-        },
-        "color_hsv": [
-            102,
-            89,
-            226
-        ],
-        "color_bgr": [
-            226,
-            194,
-            147
-        ]
-    },
-    {
-        "id": 6,
-        "text": "LEGITIMATE",
-        "score": 0.9970226287841797,
-        "position": {
-            "x_min": 33,
-            "y_min": 284,
-            "x_max": 238,
-            "y_max": 334
-        },
-        "dimension": {
-            "width": 205,
-            "height": 50
-        },
-        "angle": 0.0,
-        "center": {
-            "cx": 135.5,
-            "cy": 309.0
-        },
-        "color_hsv": [
-            94,
-            19,
-            255
-        ],
-        "color_bgr": [
-            255,
-            252,
-            236
-        ]
-    },
-    {
-        "id": 7,
-        "text": "OBJECTIVE",
-        "score": 0.9988280534744263,
-        "position": {
-            "x_min": 33,
-            "y_min": 334,
-            "x_max": 223,
-            "y_max": 381
-        },
-        "dimension": {
-            "width": 190,
-            "height": 47
-        },
-        "angle": 0.0,
-        "center": {
-            "cx": 128.0,
-            "cy": 357.5
-        },
-        "color_hsv": [
-            91,
-            18,
-            255
-        ],
-        "color_bgr": [
-            255,
-            254,
-            237
-        ]
-    },
-    {
-        "id": 8,
-        "text": "OF GOOD",
-        "score": 0.9401232600212097,
-        "position": {
-            "x_min": 32,
-            "y_min": 383,
-            "x_max": 191,
-            "y_max": 431
-        },
-        "dimension": {
-            "width": 159,
-            "height": 48
-        },
-        "angle": 0.0,
-        "center": {
-            "cx": 111.5,
-            "cy": 407.0
-        },
-        "color_hsv": [
-            90,
-            16,
-            255
-        ],
-        "color_bgr": [
-            255,
-            255,
-            239
-        ]
-    },
-    {
-        "id": 9,
-        "text": "GOVERNMENT.",
-        "score": 0.9791200160980225,
+        "text": "AND ONLY",
+        "score": 0.9358559250831604,
         "position": {
             "x_min": 31,
-            "y_min": 431,
-            "x_max": 283,
-            "y_max": 484
+            "y_min": 231,
+            "x_max": 218,
+            "y_max": 284
         },
         "dimension": {
-            "width": 252,
+            "width": 187,
             "height": 53
         },
         "angle": 0.0,
         "center": {
-            "cx": 157.0,
-            "cy": 457.5
+            "cx": 124.5,
+            "cy": 257.5
         },
         "color_hsv": [
-            100,
-            17,
+            90,
+            8,
             255
         ],
         "color_bgr": [
             255,
+            255,
+            247
+        ]
+    },
+    {
+        "id": 6,
+        "text": "JEFFERSON",
+        "score": 0.9923509955406189,
+        "position": {
+            "x_min": 320,
+            "y_min": 261,
+            "x_max": 342,
+            "y_max": 342
+        },
+        "dimension": {
+            "width": 22,
+            "height": 81
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 331.0,
+            "cy": 301.5
+        },
+        "color_hsv": [
+            102,
+            70,
+            249
+        ],
+        "color_bgr": [
             249,
-            238
+            222,
+            181
+        ]
+    },
+    {
+        "id": 7,
+        "text": "LEGITIMATE",
+        "score": 0.9918187260627747,
+        "position": {
+            "x_min": 31,
+            "y_min": 282,
+            "x_max": 239,
+            "y_max": 335
+        },
+        "dimension": {
+            "width": 208,
+            "height": 53
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 135.0,
+            "cy": 308.5
+        },
+        "color_hsv": [
+            90,
+            10,
+            255
+        ],
+        "color_bgr": [
+            255,
+            255,
+            245
+        ]
+    },
+    {
+        "id": 8,
+        "text": "OBJECTIVE",
+        "score": 0.9955805540084839,
+        "position": {
+            "x_min": 32,
+            "y_min": 332,
+            "x_max": 222,
+            "y_max": 382
+        },
+        "dimension": {
+            "width": 190,
+            "height": 50
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 127.0,
+            "cy": 357.0
+        },
+        "color_hsv": [
+            90,
+            10,
+            255
+        ],
+        "color_bgr": [
+            255,
+            255,
+            245
+        ]
+    },
+    {
+        "id": 9,
+        "text": "THOMAS",
+        "score": 0.9864495396614075,
+        "position": {
+            "x_min": 318,
+            "y_min": 335,
+            "x_max": 343,
+            "y_max": 401
+        },
+        "dimension": {
+            "width": 25,
+            "height": 66
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 330.5,
+            "cy": 368.0
+        },
+        "color_hsv": [
+            100,
+            55,
+            255
+        ],
+        "color_bgr": [
+            255,
+            237,
+            200
+        ]
+    },
+    {
+        "id": 10,
+        "text": "OFGOOD",
+        "score": 0.9527971148490906,
+        "position": {
+            "x_min": 32,
+            "y_min": 383,
+            "x_max": 194,
+            "y_max": 431
+        },
+        "dimension": {
+            "width": 162,
+            "height": 48
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 113.0,
+            "cy": 407.0
+        },
+        "color_hsv": [
+            90,
+            10,
+            255
+        ],
+        "color_bgr": [
+            255,
+            255,
+            245
+        ]
+    },
+    {
+        "id": 11,
+        "text": "GOVERNMENT.",
+        "score": 0.9728407263755798,
+        "position": {
+            "x_min": 29,
+            "y_min": 431,
+            "x_max": 283,
+            "y_max": 483
+        },
+        "dimension": {
+            "width": 254,
+            "height": 52
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 156.0,
+            "cy": 457.0
+        },
+        "color_hsv": [
+            90,
+            10,
+            255
+        ],
+        "color_bgr": [
+            255,
+            255,
+            245
         ]
     }
 ]

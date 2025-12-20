@@ -1,32 +1,32 @@
 [
     {
         "id": 0,
-        "text": "THE CARE OF HUMAN LIFE AND HAPPINESS IS THE FIRST AND ONLY",
-        "filename": "layer_00_THE CARE OF HUMAN LIFE AND HAP.png",
+        "text": "THE CAREOF HUMAN LIFE AND HAPPINESS IS THE FIRST AND ONLY",
+        "filename": "layer_00_THE CAREOF HUMAN LIFE AND HAPP.png",
         "position": {
-            "x_min": 32,
-            "y_min": 33,
-            "x_max": 318,
+            "x_min": 29,
+            "y_min": 32,
+            "x_max": 317,
             "y_max": 284
         },
         "dimension": {
-            "width": 286,
-            "height": 251
+            "width": 288,
+            "height": 252
         },
         "angle": 0.0,
         "center": {
-            "cx": 175.0,
-            "cy": 158.5
+            "cx": 173.0,
+            "cy": 158.0
         },
         "color_hsv": [
-            170,
-            13,
+            90,
+            7,
             255
         ],
         "color_bgr": [
-            246,
-            242,
-            255
+            255,
+            255,
+            248
         ]
     },
     {
@@ -34,59 +34,119 @@
         "text": "JEFFERSON",
         "filename": "layer_01_JEFFERSON.png",
         "position": {
-            "x_min": 319,
-            "y_min": 266,
-            "x_max": 341,
-            "y_max": 341
+            "x_min": 320,
+            "y_min": 261,
+            "x_max": 342,
+            "y_max": 342
         },
         "dimension": {
             "width": 22,
-            "height": 75
+            "height": 81
         },
         "angle": 90.0,
         "center": {
-            "cx": 330.0,
-            "cy": 303.5
+            "cx": 331.0,
+            "cy": 301.5
         },
         "color_hsv": [
             102,
-            89,
-            226
+            70,
+            249
         ],
         "color_bgr": [
-            226,
-            194,
-            147
+            249,
+            222,
+            181
         ]
     },
     {
         "id": 2,
-        "text": "LEGITIMATE OBJECTIVE OF GOOD GOVERNMENT.",
-        "filename": "layer_02_LEGITIMATE OBJECTIVE OF GOOD G.png",
+        "text": "LEGITIMATE OBJECTIVE",
+        "filename": "layer_02_LEGITIMATE OBJECTIVE.png",
         "position": {
             "x_min": 31,
-            "y_min": 284,
-            "x_max": 283,
-            "y_max": 484
+            "y_min": 282,
+            "x_max": 239,
+            "y_max": 382
         },
         "dimension": {
-            "width": 252,
-            "height": 200
+            "width": 208,
+            "height": 100
         },
         "angle": 0.0,
         "center": {
-            "cx": 157.0,
-            "cy": 384.0
+            "cx": 135.0,
+            "cy": 332.0
         },
         "color_hsv": [
-            94,
-            19,
+            90,
+            10,
             255
         ],
         "color_bgr": [
             255,
-            252,
-            236
+            255,
+            245
+        ]
+    },
+    {
+        "id": 3,
+        "text": "THOMAS",
+        "filename": "layer_03_THOMAS.png",
+        "position": {
+            "x_min": 318,
+            "y_min": 335,
+            "x_max": 343,
+            "y_max": 401
+        },
+        "dimension": {
+            "width": 25,
+            "height": 66
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 330.5,
+            "cy": 368.0
+        },
+        "color_hsv": [
+            100,
+            55,
+            255
+        ],
+        "color_bgr": [
+            255,
+            237,
+            200
+        ]
+    },
+    {
+        "id": 4,
+        "text": "OFGOOD GOVERNMENT.",
+        "filename": "layer_04_OFGOOD GOVERNMENT..png",
+        "position": {
+            "x_min": 29,
+            "y_min": 383,
+            "x_max": 283,
+            "y_max": 483
+        },
+        "dimension": {
+            "width": 254,
+            "height": 100
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 156.0,
+            "cy": 433.0
+        },
+        "color_hsv": [
+            90,
+            10,
+            255
+        ],
+        "color_bgr": [
+            255,
+            255,
+            245
         ]
     }
 ]

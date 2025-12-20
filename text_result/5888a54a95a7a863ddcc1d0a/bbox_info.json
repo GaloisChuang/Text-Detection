@@ -1,0 +1,242 @@
+[
+    {
+        "id": 0,
+        "text": "17/ 4/",
+        "filename": "layer_00_17 4.png",
+        "position": {
+            "x_min": 74,
+            "y_min": 96,
+            "x_max": 182,
+            "y_max": 284
+        },
+        "dimension": {
+            "width": 108,
+            "height": 188
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 128.0,
+            "cy": 190.0
+        },
+        "color_hsv": [
+            23,
+            198,
+            40
+        ],
+        "color_bgr": [
+            9,
+            33,
+            40
+        ]
+    },
+    {
+        "id": 1,
+        "text": "Starting at 2 p.m.",
+        "filename": "layer_01_Starting at 2 p.m..png",
+        "position": {
+            "x_min": 32,
+            "y_min": 276,
+            "x_max": 56,
+            "y_max": 418
+        },
+        "dimension": {
+            "width": 24,
+            "height": 142
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 44.0,
+            "cy": 347.0
+        },
+        "color_hsv": [
+            98,
+            102,
+            140
+        ],
+        "color_bgr": [
+            140,
+            125,
+            84
+        ]
+    },
+    {
+        "id": 2,
+        "text": "2018/",
+        "filename": "layer_02_2018.png",
+        "position": {
+            "x_min": 79,
+            "y_min": 313,
+            "x_max": 288,
+            "y_max": 393
+        },
+        "dimension": {
+            "width": 209,
+            "height": 80
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 183.5,
+            "cy": 353.0
+        },
+        "color_hsv": [
+            23,
+            183,
+            39
+        ],
+        "color_bgr": [
+            11,
+            32,
+            39
+        ]
+    },
+    {
+        "id": 3,
+        "text": "2301 Alma Rd, Baltimore, MD We are looking for sponsors! Please call 74-2716-9172-37",
+        "filename": "layer_03_2301 Alma Rd, Baltimore, MD We.png",
+        "position": {
+            "x_min": 65,
+            "y_min": 429,
+            "x_max": 296,
+            "y_max": 485
+        },
+        "dimension": {
+            "width": 231,
+            "height": 56
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 180.5,
+            "cy": 457.0
+        },
+        "color_hsv": [
+            98,
+            81,
+            116
+        ],
+        "color_bgr": [
+            116,
+            106,
+            79
+        ]
+    },
+    {
+        "id": 4,
+        "text": "Charity",
+        "filename": "layer_04_Charity.png",
+        "position": {
+            "x_min": 468,
+            "y_min": 35,
+            "x_max": 846,
+            "y_max": 159
+        },
+        "dimension": {
+            "width": 378,
+            "height": 124
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 657.0,
+            "cy": 97.0
+        },
+        "color_hsv": [
+            26,
+            237,
+            241
+        ],
+        "color_bgr": [
+            17,
+            211,
+            241
+        ]
+    },
+    {
+        "id": 5,
+        "text": "Music  Fest.",
+        "filename": "layer_05_Music  Fest..png",
+        "position": {
+            "x_min": 478,
+            "y_min": 154,
+            "x_max": 1020,
+            "y_max": 242
+        },
+        "dimension": {
+            "width": 542,
+            "height": 88
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 749.0,
+            "cy": 198.0
+        },
+        "color_hsv": [
+            173,
+            29,
+            35
+        ],
+        "color_bgr": [
+            32,
+            31,
+            35
+        ]
+    },
+    {
+        "id": 6,
+        "text": "Listen and Donate",
+        "filename": "layer_06_Listen and Donate.png",
+        "position": {
+            "x_min": 771,
+            "y_min": 242,
+            "x_max": 944,
+            "y_max": 268
+        },
+        "dimension": {
+            "width": 173,
+            "height": 26
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 857.5,
+            "cy": 255.0
+        },
+        "color_hsv": [
+            165,
+            15,
+            35
+        ],
+        "color_bgr": [
+            34,
+            33,
+            35
+        ]
+    },
+    {
+        "id": 7,
+        "text": "Join us for an evening of amazing Special guests: The Hoobert Band Rainbow Sisters Sloane Andy Curtis Douglas Sharp Teresa Stevenson& Rob Bell vory Preston Astrid Thorpe",
+        "filename": "layer_07_Join us for an evening of amaz.png",
+        "position": {
+            "x_min": 763,
+            "y_min": 325,
+            "x_max": 1023,
+            "y_max": 495
+        },
+        "dimension": {
+            "width": 260,
+            "height": 170
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 893.0,
+            "cy": 410.0
+        },
+        "color_hsv": [
+            25,
+            255,
+            136
+        ],
+        "color_bgr": [
+            0,
+            113,
+            136
+        ]
+    }
+]

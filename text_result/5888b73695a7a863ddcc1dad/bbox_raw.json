@@ -2,271 +2,301 @@
     {
         "id": 0,
         "text": "Dating Auction",
-        "score": 0.9987837076187134,
+        "score": 0.9988937973976135,
         "position": {
-            "x_min": 86,
-            "y_min": 53,
-            "x_max": 422,
-            "y_max": 103
+            "x_min": 88,
+            "y_min": 54,
+            "x_max": 420,
+            "y_max": 101
         },
         "dimension": {
-            "width": 336,
-            "height": 50
+            "width": 332,
+            "height": 47
         },
         "angle": 0.0,
         "center": {
             "cx": 254.0,
-            "cy": 78.0
+            "cy": 77.5
         },
         "color_hsv": [
-            20,
             6,
-            159
+            170,
+            10
         ],
         "color_bgr": [
-            155,
-            158,
-            159
+            3,
+            5,
+            10
         ]
     },
     {
         "id": 1,
         "text": "in Wabash Cafe",
-        "score": 0.9661983251571655,
+        "score": 0.9992464780807495,
         "position": {
-            "x_min": 84,
+            "x_min": 87,
             "y_min": 112,
-            "x_max": 442,
-            "y_max": 159
+            "x_max": 438,
+            "y_max": 156
         },
         "dimension": {
-            "width": 358,
-            "height": 47
+            "width": 351,
+            "height": 44
         },
         "angle": 0.0,
         "center": {
-            "cx": 263.0,
-            "cy": 135.5
+            "cx": 262.5,
+            "cy": 134.0
         },
         "color_hsv": [
-            30,
             6,
-            153
+            170,
+            10
         ],
         "color_bgr": [
-            149,
-            153,
-            153
+            3,
+            5,
+            10
         ]
     },
     {
         "id": 2,
-        "text": "TUESDAY | APRIL 6TH",
-        "score": 0.8451228141784668,
+        "text": "TUESDAY|APRIL 6TH",
+        "score": 0.9561492800712585,
         "position": {
-            "x_min": 37,
-            "y_min": 387,
-            "x_max": 71,
-            "y_max": 636
+            "x_min": 39,
+            "y_min": 391,
+            "x_max": 68,
+            "y_max": 632
         },
         "dimension": {
-            "width": 34,
-            "height": 249
+            "width": 29,
+            "height": 241
         },
-        "angle": 89.53981018066406,
+        "angle": 89.52452850341797,
         "center": {
-            "cx": 54.0,
+            "cx": 53.5,
             "cy": 511.5
         },
         "color_hsv": [
             20,
-            20,
-            145
+            170,
+            12
         ],
         "color_bgr": [
-            134,
-            141,
-            145
+            4,
+            9,
+            12
         ]
     },
     {
         "id": 3,
-        "text": "Charity Event",
-        "score": 0.9984172582626343,
+        "text": "茶",
+        "score": 0.5622570514678955,
         "position": {
-            "x_min": 111,
-            "y_min": 632,
-            "x_max": 382,
-            "y_max": 682
+            "x_min": 173,
+            "y_min": 579,
+            "x_max": 204,
+            "y_max": 610
         },
         "dimension": {
-            "width": 271,
-            "height": 50
+            "width": 31,
+            "height": 31
         },
-        "angle": 0.0,
+        "angle": 90.0,
         "center": {
-            "cx": 246.5,
-            "cy": 657.0
+            "cx": 188.5,
+            "cy": 594.5
         },
         "color_hsv": [
-            150,
-            4,
-            255
+            3,
+            255,
+            54
         ],
         "color_bgr": [
-            255,
-            251,
-            255
+            0,
+            5,
+            54
         ]
     },
     {
         "id": 4,
-        "text": "We are raising fundo for",
-        "score": 0.9572622179985046,
+        "text": "Charity Event",
+        "score": 0.9629913568496704,
         "position": {
-            "x_min": 114,
-            "y_min": 686,
-            "x_max": 582,
-            "y_max": 727
+            "x_min": 116,
+            "y_min": 633,
+            "x_max": 381,
+            "y_max": 678
         },
         "dimension": {
-            "width": 468,
-            "height": 41
+            "width": 265,
+            "height": 45
         },
         "angle": 0.0,
         "center": {
-            "cx": 348.0,
-            "cy": 706.5
+            "cx": 248.5,
+            "cy": 655.5
         },
         "color_hsv": [
-            161,
-            5,
-            255
+            170,
+            18,
+            244
         ],
         "color_bgr": [
-            253,
-            250,
-            255
+            233,
+            227,
+            244
         ]
     },
     {
         "id": 5,
-        "text": " Cape May Medical Centety",
-        "score": 0.9548971652984619,
+        "text": "We are raising funds for",
+        "score": 0.9472572803497314,
         "position": {
-            "x_min": 106,
-            "y_min": 721,
-            "x_max": 612,
-            "y_max": 790
+            "x_min": 117,
+            "y_min": 682,
+            "x_max": 583,
+            "y_max": 731
         },
         "dimension": {
-            "width": 506,
-            "height": 69
+            "width": 466,
+            "height": 49
         },
         "angle": 0.0,
         "center": {
-            "cx": 359.0,
-            "cy": 755.5
+            "cx": 350.0,
+            "cy": 706.5
         },
         "color_hsv": [
-            165,
-            7,
+            163,
+            6,
             255
         ],
         "color_bgr": [
             252,
-            248,
+            249,
             255
         ]
     },
     {
         "id": 6,
-        "text": "$20 Donation to Attend",
-        "score": 0.9831567406654358,
+        "text": "Cape May MedicarCentery",
+        "score": 0.8654806017875671,
         "position": {
-            "x_min": 78,
-            "y_min": 858,
-            "x_max": 606,
-            "y_max": 935
+            "x_min": 106,
+            "y_min": 714,
+            "x_max": 615,
+            "y_max": 795
         },
         "dimension": {
-            "width": 528,
-            "height": 77
+            "width": 509,
+            "height": 81
         },
         "angle": 0.0,
         "center": {
-            "cx": 342.0,
-            "cy": 896.5
+            "cx": 360.5,
+            "cy": 754.5
         },
         "color_hsv": [
-            2,
-            24,
-            141
+            167,
+            32,
+            247
         ],
         "color_bgr": [
-            128,
-            129,
-            141
+            229,
+            216,
+            247
         ]
     },
     {
         "id": 7,
-        "text": "6:00 PM - 900 PM",
-        "score": 0.9217783212661743,
+        "text": "$20 Donation to Attend",
+        "score": 0.9995928406715393,
         "position": {
-            "x_min": 89,
-            "y_min": 964,
-            "x_max": 303,
-            "y_max": 988
+            "x_min": 90,
+            "y_min": 871,
+            "x_max": 596,
+            "y_max": 921
         },
         "dimension": {
-            "width": 214,
-            "height": 24
+            "width": 506,
+            "height": 50
         },
         "angle": 0.0,
         "center": {
-            "cx": 196.0,
-            "cy": 976.0
+            "cx": 343.0,
+            "cy": 896.0
         },
         "color_hsv": [
-            0,
-            21,
-            160
+            175,
+            213,
+            12
         ],
         "color_bgr": [
-            147,
-            147,
-            160
+            4,
+            2,
+            12
         ]
     },
     {
         "id": 8,
-        "text": "CALL US: +84 392 222 3982",
-        "score": 0.977362871170044,
+        "text": "6:00PM-9:00PM",
+        "score": 0.979865312576294,
         "position": {
-            "x_min": 389,
-            "y_min": 964,
-            "x_max": 678,
-            "y_max": 990
+            "x_min": 90,
+            "y_min": 965,
+            "x_max": 301,
+            "y_max": 986
         },
         "dimension": {
-            "width": 289,
-            "height": 26
+            "width": 211,
+            "height": 21
         },
         "angle": 0.0,
         "center": {
-            "cx": 533.5,
-            "cy": 977.0
+            "cx": 195.5,
+            "cy": 975.5
         },
         "color_hsv": [
-            0,
-            23,
-            139
+            175,
+            213,
+            13
         ],
         "color_bgr": [
-            126,
-            126,
-            139
+            4,
+            2,
+            13
+        ]
+    },
+    {
+        "id": 9,
+        "text": "CALLUS:+843922223982",
+        "score": 0.9978272318840027,
+        "position": {
+            "x_min": 389,
+            "y_min": 965,
+            "x_max": 676,
+            "y_max": 988
+        },
+        "dimension": {
+            "width": 287,
+            "height": 23
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 532.5,
+            "cy": 976.5
+        },
+        "color_hsv": [
+            175,
+            213,
+            13
+        ],
+        "color_bgr": [
+            4,
+            2,
+            13
         ]
     }
 ]

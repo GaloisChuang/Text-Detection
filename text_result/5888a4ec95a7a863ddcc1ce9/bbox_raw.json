@@ -2,7 +2,7 @@
     {
         "id": 0,
         "text": "CORPORATE",
-        "score": 0.9956034421920776,
+        "score": 0.9934542775154114,
         "position": {
             "x_min": 48,
             "y_min": 59,
@@ -32,61 +32,61 @@
     {
         "id": 1,
         "text": "CHARITYDAY",
-        "score": 0.9835307002067566,
+        "score": 0.9900019764900208,
         "position": {
             "x_min": 47,
-            "y_min": 91,
+            "y_min": 93,
             "x_max": 281,
             "y_max": 124
         },
         "dimension": {
             "width": 234,
-            "height": 33
+            "height": 31
         },
         "angle": 0.0,
         "center": {
             "cx": 164.0,
-            "cy": 107.5
+            "cy": 108.5
         },
         "color_hsv": [
             179,
-            174,
-            166
+            195,
+            200
         ],
         "color_bgr": [
-            57,
-            53,
-            166
+            52,
+            47,
+            200
         ]
     },
     {
         "id": 2,
-        "text": "FIGHTING POVERTY FORA BRIGHTER FUTURE!",
-        "score": 0.9477883577346802,
+        "text": "FIGHTING POVERTY FOR A BRIGHTER FUTURE!",
+        "score": 0.9302862882614136,
         "position": {
             "x_min": 73,
-            "y_min": 161,
-            "x_max": 430,
-            "y_max": 179
+            "y_min": 160,
+            "x_max": 431,
+            "y_max": 178
         },
         "dimension": {
-            "width": 357,
+            "width": 358,
             "height": 18
         },
         "angle": 0.0,
         "center": {
-            "cx": 251.5,
-            "cy": 170.0
+            "cx": 252.0,
+            "cy": 169.0
         },
         "color_hsv": [
             0,
             0,
-            146
+            226
         ],
         "color_bgr": [
-            146,
-            146,
-            146
+            226,
+            226,
+            226
         ]
     }
 ]

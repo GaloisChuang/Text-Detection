@@ -2,21 +2,21 @@
     {
         "id": 0,
         "text": "CHARITY NIGHT",
-        "score": 0.9720345735549927,
+        "score": 0.9579986929893494,
         "position": {
-            "x_min": 64,
-            "y_min": 48,
-            "x_max": 475,
-            "y_max": 97
+            "x_min": 65,
+            "y_min": 49,
+            "x_max": 472,
+            "y_max": 95
         },
         "dimension": {
-            "width": 411,
-            "height": 49
+            "width": 407,
+            "height": 46
         },
         "angle": 0.0,
         "center": {
-            "cx": 269.5,
-            "cy": 72.5
+            "cx": 268.5,
+            "cy": 72.0
         },
         "color_hsv": [
             150,
@@ -32,61 +32,61 @@
     {
         "id": 1,
         "text": "Come and help raise money for Orphans",
-        "score": 0.996340274810791,
+        "score": 0.9669323563575745,
         "position": {
-            "x_min": 299,
+            "x_min": 301,
             "y_min": 162,
-            "x_max": 823,
-            "y_max": 200
+            "x_max": 822,
+            "y_max": 199
         },
         "dimension": {
-            "width": 524,
-            "height": 38
+            "width": 521,
+            "height": 37
         },
         "angle": 0.0,
         "center": {
-            "cx": 561.0,
-            "cy": 181.0
+            "cx": 561.5,
+            "cy": 180.5
         },
         "color_hsv": [
-            157,
-            11,
-            251
+            150,
+            5,
+            255
         ],
         "color_bgr": [
-            248,
-            240,
-            251
+            255,
+            250,
+            255
         ]
     },
     {
         "id": 2,
         "text": "Shelter Foundation in Westport!",
-        "score": 0.9904915690422058,
+        "score": 0.9771279096603394,
         "position": {
-            "x_min": 413,
-            "y_min": 203,
-            "x_max": 824,
-            "y_max": 239
+            "x_min": 414,
+            "y_min": 204,
+            "x_max": 822,
+            "y_max": 237
         },
         "dimension": {
-            "width": 411,
-            "height": 36
+            "width": 408,
+            "height": 33
         },
         "angle": 0.0,
         "center": {
-            "cx": 618.5,
-            "cy": 221.0
+            "cx": 618.0,
+            "cy": 220.5
         },
         "color_hsv": [
-            159,
-            11,
-            252
+            150,
+            5,
+            255
         ],
         "color_bgr": [
-            249,
-            241,
-            252
+            255,
+            250,
+            255
         ]
     }
 ]

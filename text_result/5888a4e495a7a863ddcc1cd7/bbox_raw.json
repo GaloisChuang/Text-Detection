@@ -1,152 +1,212 @@
 [
     {
         "id": 0,
-        "text": "the ocean",
-        "score": 0.897705078125,
+        "text": "THE OCEAN",
+        "score": 0.9582448601722717,
         "position": {
             "x_min": 33,
-            "y_min": 79,
-            "x_max": 292,
-            "y_max": 113
+            "y_min": 80,
+            "x_max": 293,
+            "y_max": 114
         },
         "dimension": {
-            "width": 259,
+            "width": 260,
             "height": 34
         },
         "angle": 0.0,
         "center": {
-            "cx": 162.5,
-            "cy": 96.0
+            "cx": 163.0,
+            "cy": 97.0
         },
         "color_hsv": [
-            165,
-            15,
+            173,
+            29,
             35
         ],
         "color_bgr": [
-            34,
-            33,
+            32,
+            31,
             35
         ]
     },
     {
         "id": 1,
-        "text": "I s",
-        "score": 0.5453309416770935,
+        "text": "S",
+        "score": 0.9914203882217407,
         "position": {
-            "x_min": 35,
-            "y_min": 118,
-            "x_max": 84,
-            "y_max": 140
+            "x_min": 64,
+            "y_min": 119,
+            "x_max": 78,
+            "y_max": 135
         },
         "dimension": {
-            "width": 49,
-            "height": 22
+            "width": 14,
+            "height": 16
         },
-        "angle": 0.0,
+        "angle": 90.0,
         "center": {
-            "cx": 59.5,
-            "cy": 129.0
+            "cx": 71.0,
+            "cy": 127.0
         },
         "color_hsv": [
             0,
             0,
-            239
+            119
         ],
         "color_bgr": [
-            239,
-            239,
-            239
+            119,
+            119,
+            119
         ]
     },
     {
         "id": 2,
-        "text": "冏一",
-        "score": 0.5129575729370117,
+        "text": "—z",
+        "score": 0.5038091540336609,
         "position": {
-            "x_min": 83,
-            "y_min": 117,
-            "x_max": 165,
-            "y_max": 141
+            "x_min": 111,
+            "y_min": 116,
+            "x_max": 166,
+            "y_max": 138
         },
         "dimension": {
-            "width": 82,
-            "height": 24
+            "width": 55,
+            "height": 22
         },
         "angle": 0.0,
         "center": {
-            "cx": 124.0,
-            "cy": 129.0
+            "cx": 138.5,
+            "cy": 127.0
         },
         "color_hsv": [
-            0,
-            0,
-            229
+            165,
+            6,
+            43
         ],
         "color_bgr": [
-            229,
-            229,
-            229
+            42,
+            42,
+            43
         ]
     },
     {
         "id": 3,
-        "text": "DAnGeR",
-        "score": 0.745131254196167,
+        "text": "DANCE",
+        "score": 0.91706782579422,
         "position": {
-            "x_min": 202,
-            "y_min": 117,
-            "x_max": 392,
-            "y_max": 141
+            "x_min": 200,
+            "y_min": 114,
+            "x_max": 350,
+            "y_max": 140
         },
         "dimension": {
-            "width": 190,
-            "height": 24
+            "width": 150,
+            "height": 26
         },
         "angle": 0.0,
         "center": {
-            "cx": 297.0,
-            "cy": 129.0
+            "cx": 275.0,
+            "cy": 127.0
         },
         "color_hsv": [
-            0,
-            0,
-            239
+            165,
+            6,
+            76
         ],
         "color_bgr": [
-            239,
-            239,
-            239
+            75,
+            74,
+            76
         ]
     },
     {
         "id": 4,
-        "text": "SAVE THE OCEAN!",
-        "score": 0.9659227728843689,
+        "text": "EP",
+        "score": 0.8616542220115662,
         "position": {
-            "x_min": 583,
-            "y_min": 169,
-            "x_max": 696,
-            "y_max": 187
+            "x_min": 338,
+            "y_min": 117,
+            "x_max": 379,
+            "y_max": 136
         },
         "dimension": {
-            "width": 113,
-            "height": 18
+            "width": 41,
+            "height": 19
         },
         "angle": 0.0,
         "center": {
-            "cx": 639.5,
-            "cy": 178.0
+            "cx": 358.5,
+            "cy": 126.5
         },
         "color_hsv": [
             165,
-            5,
-            133
+            15,
+            33
         ],
         "color_bgr": [
-            132,
-            130,
-            133
+            32,
+            31,
+            33
+        ]
+    },
+    {
+        "id": 5,
+        "text": "R",
+        "score": 0.9643123149871826,
+        "position": {
+            "x_min": 369,
+            "y_min": 116,
+            "x_max": 389,
+            "y_max": 136
+        },
+        "dimension": {
+            "width": 20,
+            "height": 20
+        },
+        "angle": 75.96376037597656,
+        "center": {
+            "cx": 379.0,
+            "cy": 126.0
+        },
+        "color_hsv": [
+            165,
+            7,
+            34
+        ],
+        "color_bgr": [
+            34,
+            33,
+            34
+        ]
+    },
+    {
+        "id": 6,
+        "text": "SAVE THE OCEAN!",
+        "score": 0.9734991788864136,
+        "position": {
+            "x_min": 585,
+            "y_min": 169,
+            "x_max": 695,
+            "y_max": 184
+        },
+        "dimension": {
+            "width": 110,
+            "height": 15
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 640.0,
+            "cy": 176.5
+        },
+        "color_hsv": [
+            165,
+            2,
+            207
+        ],
+        "color_bgr": [
+            206,
+            205,
+            207
         ]
     }
 ]

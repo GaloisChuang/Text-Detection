@@ -1,32 +1,62 @@
 [
     {
         "id": 0,
-        "text": "Daling Auclions in Wabash Cafe",
-        "filename": "layer_00_Daling Auclions in Wabash Cafe.png",
+        "text": "Dating Auctions",
+        "filename": "layer_00_Dating Auctions.png",
         "position": {
-            "x_min": 289,
-            "y_min": 238,
-            "x_max": 755,
-            "y_max": 358
+            "x_min": 292,
+            "y_min": 239,
+            "x_max": 750,
+            "y_max": 308
         },
         "dimension": {
-            "width": 466,
-            "height": 120
+            "width": 458,
+            "height": 69
         },
         "angle": 0.0,
         "center": {
-            "cx": 522.0,
-            "cy": 298.0
+            "cx": 521.0,
+            "cy": 273.5
         },
         "color_hsv": [
-            26,
-            64,
+            24,
+            42,
+            39
+        ],
+        "color_bgr": [
+            33,
+            38,
+            39
+        ]
+    },
+    {
+        "id": 1,
+        "text": "in Wabash Cafe",
+        "filename": "layer_01_in Wabash Cafe.png",
+        "position": {
+            "x_min": 300,
+            "y_min": 295,
+            "x_max": 745,
+            "y_max": 356
+        },
+        "dimension": {
+            "width": 445,
+            "height": 61
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 522.5,
+            "cy": 325.5
+        },
+        "color_hsv": [
+            124,
+            36,
             36
         ],
         "color_bgr": [
-            27,
-            35,
-            36
+            36,
+            31,
+            32
         ]
     }
 ]

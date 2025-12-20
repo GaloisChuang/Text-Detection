@@ -1,0 +1,212 @@
+[
+    {
+        "id": 0,
+        "text": "NO",
+        "score": 0.9476957321166992,
+        "position": {
+            "x_min": 281,
+            "y_min": 114,
+            "x_max": 357,
+            "y_max": 163
+        },
+        "dimension": {
+            "width": 76,
+            "height": 49
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 319.0,
+            "cy": 138.5
+        },
+        "color_hsv": [
+            23,
+            163,
+            39
+        ],
+        "color_bgr": [
+            14,
+            33,
+            39
+        ]
+    },
+    {
+        "id": 1,
+        "text": "ONE",
+        "score": 0.9362584948539734,
+        "position": {
+            "x_min": 360,
+            "y_min": 114,
+            "x_max": 468,
+            "y_max": 163
+        },
+        "dimension": {
+            "width": 108,
+            "height": 49
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 414.0,
+            "cy": 138.5
+        },
+        "color_hsv": [
+            22,
+            170,
+            40
+        ],
+        "color_bgr": [
+            13,
+            33,
+            40
+        ]
+    },
+    {
+        "id": 2,
+        "text": "HAS",
+        "score": 0.9806882739067078,
+        "position": {
+            "x_min": 482,
+            "y_min": 115,
+            "x_max": 593,
+            "y_max": 161
+        },
+        "dimension": {
+            "width": 111,
+            "height": 46
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 537.5,
+            "cy": 138.0
+        },
+        "color_hsv": [
+            22,
+            163,
+            40
+        ],
+        "color_bgr": [
+            14,
+            33,
+            40
+        ]
+    },
+    {
+        "id": 3,
+        "text": "EVER",
+        "score": 0.982738733291626,
+        "position": {
+            "x_min": 602,
+            "y_min": 115,
+            "x_max": 732,
+            "y_max": 161
+        },
+        "dimension": {
+            "width": 130,
+            "height": 46
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 667.0,
+            "cy": 138.0
+        },
+        "color_hsv": [
+            24,
+            161,
+            39
+        ],
+        "color_bgr": [
+            14,
+            34,
+            39
+        ]
+    },
+    {
+        "id": 4,
+        "text": "BECOMEPOORFROM",
+        "score": 0.9662245512008667,
+        "position": {
+            "x_min": 302,
+            "y_min": 192,
+            "x_max": 720,
+            "y_max": 236
+        },
+        "dimension": {
+            "width": 418,
+            "height": 44
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 511.0,
+            "cy": 214.0
+        },
+        "color_hsv": [
+            23,
+            161,
+            40
+        ],
+        "color_bgr": [
+            15,
+            34,
+            40
+        ]
+    },
+    {
+        "id": 5,
+        "text": "GIVING",
+        "score": 0.983411967754364,
+        "position": {
+            "x_min": 425,
+            "y_min": 261,
+            "x_max": 594,
+            "y_max": 316
+        },
+        "dimension": {
+            "width": 169,
+            "height": 55
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 509.5,
+            "cy": 288.5
+        },
+        "color_hsv": [
+            24,
+            92,
+            36
+        ],
+        "color_bgr": [
+            23,
+            33,
+            36
+        ]
+    },
+    {
+        "id": 6,
+        "text": "Anne Frank",
+        "score": 0.9277676343917847,
+        "position": {
+            "x_min": 428,
+            "y_min": 361,
+            "x_max": 589,
+            "y_max": 400
+        },
+        "dimension": {
+            "width": 161,
+            "height": 39
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 508.5,
+            "cy": 380.5
+        },
+        "color_hsv": [
+            26,
+            166,
+            240
+        ],
+        "color_bgr": [
+            84,
+            219,
+            240
+        ]
+    }
+]

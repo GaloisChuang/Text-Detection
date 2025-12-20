@@ -1,13 +1,13 @@
 [
     {
         "id": 0,
-        "text": "Big Fall Volunteer",
-        "score": 0.9785380959510803,
+        "text": "BigFall Volunteer",
+        "score": 0.9828966856002808,
         "position": {
-            "x_min": 39,
-            "y_min": 23,
-            "x_max": 328,
-            "y_max": 60
+            "x_min": 37,
+            "y_min": 22,
+            "x_max": 326,
+            "y_max": 59
         },
         "dimension": {
             "width": 289,
@@ -15,62 +15,62 @@
         },
         "angle": 0.0,
         "center": {
-            "cx": 183.5,
-            "cy": 41.5
+            "cx": 181.5,
+            "cy": 40.5
         },
         "color_hsv": [
-            176,
-            22,
+            169,
+            7,
             255
         ],
         "color_bgr": [
-            236,
-            233,
+            251,
+            248,
             255
         ]
     },
     {
         "id": 1,
-        "text": "Cleanup",
-        "score": 0.9915950894355774,
+        "text": "Teanup",
+        "score": 0.9002501368522644,
         "position": {
-            "x_min": 55,
-            "y_min": 67,
-            "x_max": 303,
-            "y_max": 126
+            "x_min": 94,
+            "y_min": 71,
+            "x_max": 298,
+            "y_max": 123
         },
         "dimension": {
-            "width": 248,
-            "height": 59
+            "width": 204,
+            "height": 52
         },
         "angle": 0.0,
         "center": {
-            "cx": 179.0,
-            "cy": 96.5
+            "cx": 196.0,
+            "cy": 97.0
         },
         "color_hsv": [
             173,
-            104,
-            39
+            36,
+            35
         ],
         "color_bgr": [
-            27,
-            23,
-            39
+            31,
+            30,
+            35
         ]
     },
     {
         "id": 2,
         "text": "Meet the winter.",
-        "score": 0.9978334903717041,
+        "score": 0.9509279727935791,
         "position": {
-            "x_min": 114,
+            "x_min": 115,
             "y_min": 135,
-            "x_max": 245,
+            "x_max": 244,
             "y_max": 161
         },
         "dimension": {
-            "width": 131,
+            "width": 129,
             "height": 26
         },
         "angle": 0.0,
@@ -79,110 +79,170 @@
             "cy": 148.0
         },
         "color_hsv": [
-            178,
-            55,
+            177,
+            19,
             255
         ],
         "color_bgr": [
-            204,
-            200,
+            238,
+            236,
             255
         ]
     },
     {
         "id": 3,
-        "text": "Clear a spaee for some snow.",
-        "score": 0.9767798185348511,
+        "text": "Clear a space for some snow.",
+        "score": 0.9726364016532898,
         "position": {
-            "x_min": 70,
-            "y_min": 154,
+            "x_min": 68,
+            "y_min": 152,
             "x_max": 287,
-            "y_max": 177
+            "y_max": 178
         },
         "dimension": {
-            "width": 217,
-            "height": 23
+            "width": 219,
+            "height": 26
         },
         "angle": 0.0,
         "center": {
-            "cx": 178.5,
-            "cy": 165.5
+            "cx": 177.5,
+            "cy": 165.0
         },
         "color_hsv": [
-            178,
-            48,
+            177,
+            25,
             255
         ],
         "color_bgr": [
-            210,
-            207,
+            232,
+            230,
             255
         ]
     },
     {
         "id": 4,
-        "text": "h",
-        "score": 0.6648455262184143,
+        "text": "When:",
+        "score": 0.9570476412773132,
         "position": {
-            "x_min": 43,
-            "y_min": 357,
-            "x_max": 76,
+            "x_min": 33,
+            "y_min": 356,
+            "x_max": 77,
             "y_max": 373
         },
         "dimension": {
-            "width": 33,
-            "height": 16
+            "width": 44,
+            "height": 17
         },
         "angle": 0.0,
         "center": {
-            "cx": 59.5,
-            "cy": 365.0
+            "cx": 55.0,
+            "cy": 364.5
         },
         "color_hsv": [
-            26,
-            140,
-            200
+            25,
+            246,
+            85
         ],
         "color_bgr": [
-            90,
-            185,
-            200
+            3,
+            71,
+            85
         ]
     },
     {
         "id": 5,
-        "text": "Salwla, h",
-        "score": 0.5289250612258911,
+        "text": "Where:",
+        "score": 0.9851405620574951,
         "position": {
-            "x_min": 35,
-            "y_min": 373,
-            "x_max": 119,
-            "y_max": 394
+            "x_min": 213,
+            "y_min": 356,
+            "x_max": 255,
+            "y_max": 373
         },
         "dimension": {
-            "width": 84,
-            "height": 21
+            "width": 42,
+            "height": 17
         },
         "angle": 0.0,
         "center": {
-            "cx": 77.0,
-            "cy": 383.5
+            "cx": 234.0,
+            "cy": 364.5
         },
         "color_hsv": [
             26,
-            138,
-            197
+            174,
+            130
         ],
         "color_bgr": [
-            90,
-            183,
-            197
+            41,
+            118,
+            130
         ]
     },
     {
         "id": 6,
-        "text": "map",
-        "score": 0.8032998442649841,
+        "text": "Saturday,19th",
+        "score": 0.9376498460769653,
+        "position": {
+            "x_min": 36,
+            "y_min": 374,
+            "x_max": 118,
+            "y_max": 392
+        },
+        "dimension": {
+            "width": 82,
+            "height": 18
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 77.0,
+            "cy": 383.0
+        },
+        "color_hsv": [
+            25,
+            248,
+            85
+        ],
+        "color_bgr": [
+            2,
+            71,
+            85
+        ]
+    },
+    {
+        "id": 7,
+        "text": "Outside your house.",
+        "score": 0.906954288482666,
+        "position": {
+            "x_min": 215,
+            "y_min": 373,
+            "x_max": 308,
+            "y_max": 393
+        },
+        "dimension": {
+            "width": 93,
+            "height": 20
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 261.5,
+            "cy": 383.0
+        },
+        "color_hsv": [
+            25,
+            190,
+            133
+        ],
+        "color_bgr": [
+            34,
+            116,
+            133
+        ]
+    },
+    {
+        "id": 8,
+        "text": "November",
+        "score": 0.9631048440933228,
         "position": {
             "x_min": 35,
             "y_min": 388,
@@ -199,14 +259,74 @@
             "cy": 398.0
         },
         "color_hsv": [
-            26,
-            142,
-            196
+            25,
+            235,
+            84
         ],
         "color_bgr": [
-            87,
-            181,
-            196
+            7,
+            71,
+            84
+        ]
+    },
+    {
+        "id": 9,
+        "text": "Wherever you live",
+        "score": 0.9547867774963379,
+        "position": {
+            "x_min": 216,
+            "y_min": 388,
+            "x_max": 304,
+            "y_max": 406
+        },
+        "dimension": {
+            "width": 88,
+            "height": 18
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 260.0,
+            "cy": 397.0
+        },
+        "color_hsv": [
+            26,
+            199,
+            125
+        ],
+        "color_bgr": [
+            27,
+            112,
+            125
+        ]
+    },
+    {
+        "id": 10,
+        "text": "More info on www.nyeleanup.com",
+        "score": 0.9735981822013855,
+        "position": {
+            "x_min": 91,
+            "y_min": 452,
+            "x_max": 251,
+            "y_max": 473
+        },
+        "dimension": {
+            "width": 160,
+            "height": 21
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 171.0,
+            "cy": 462.5
+        },
+        "color_hsv": [
+            178,
+            37,
+            255
+        ],
+        "color_bgr": [
+            220,
+            218,
+            255
         ]
     }
 ]

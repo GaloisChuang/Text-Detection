@@ -1,0 +1,92 @@
+[
+    {
+        "id": 0,
+        "text": "NO ONE HAS EVER BECOMEPOORFROM",
+        "filename": "layer_00_NO ONE HAS EVER BECOMEPOORFROM.png",
+        "position": {
+            "x_min": 281,
+            "y_min": 114,
+            "x_max": 732,
+            "y_max": 236
+        },
+        "dimension": {
+            "width": 451,
+            "height": 122
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 506.5,
+            "cy": 175.0
+        },
+        "color_hsv": [
+            23,
+            163,
+            39
+        ],
+        "color_bgr": [
+            14,
+            33,
+            39
+        ]
+    },
+    {
+        "id": 1,
+        "text": "GIVING",
+        "filename": "layer_01_GIVING.png",
+        "position": {
+            "x_min": 425,
+            "y_min": 261,
+            "x_max": 594,
+            "y_max": 316
+        },
+        "dimension": {
+            "width": 169,
+            "height": 55
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 509.5,
+            "cy": 288.5
+        },
+        "color_hsv": [
+            24,
+            92,
+            36
+        ],
+        "color_bgr": [
+            23,
+            33,
+            36
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Anne Frank",
+        "filename": "layer_02_Anne Frank.png",
+        "position": {
+            "x_min": 428,
+            "y_min": 361,
+            "x_max": 589,
+            "y_max": 400
+        },
+        "dimension": {
+            "width": 161,
+            "height": 39
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 508.5,
+            "cy": 380.5
+        },
+        "color_hsv": [
+            26,
+            166,
+            240
+        ],
+        "color_bgr": [
+            84,
+            219,
+            240
+        ]
+    }
+]

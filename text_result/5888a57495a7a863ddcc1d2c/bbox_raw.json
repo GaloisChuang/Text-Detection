@@ -2,72 +2,72 @@
     {
         "id": 0,
         "text": "Dating Auction in Wabash Cafe",
-        "score": 0.9938324093818665,
+        "score": 0.9849205017089844,
         "position": {
-            "x_min": 108,
-            "y_min": 23,
-            "x_max": 794,
-            "y_max": 75
+            "x_min": 110,
+            "y_min": 22,
+            "x_max": 791,
+            "y_max": 78
         },
         "dimension": {
-            "width": 686,
-            "height": 52
+            "width": 681,
+            "height": 56
         },
         "angle": 0.0,
         "center": {
-            "cx": 451.0,
-            "cy": 49.0
+            "cx": 450.5,
+            "cy": 50.0
         },
         "color_hsv": [
-            30,
-            7,
-            136
+            6,
+            170,
+            11
         ],
         "color_bgr": [
-            132,
-            136,
-            136
+            4,
+            5,
+            11
         ]
     },
     {
         "id": 1,
-        "text": "TUESDAY IAPRIL 6TH",
-        "score": 0.8036169409751892,
+        "text": "TUESDAY|APRIL6TH",
+        "score": 0.9661986231803894,
         "position": {
-            "x_min": 70,
-            "y_min": 93,
-            "x_max": 102,
-            "y_max": 366
+            "x_min": 71,
+            "y_min": 97,
+            "x_max": 100,
+            "y_max": 362
         },
         "dimension": {
-            "width": 32,
-            "height": 273
+            "width": 29,
+            "height": 265
         },
-        "angle": 0.41974180936813354,
+        "angle": 90.0,
         "center": {
-            "cx": 86.0,
+            "cx": 85.5,
             "cy": 229.5
         },
         "color_hsv": [
-            20,
-            30,
-            73
+            6,
+            170,
+            12
         ],
         "color_bgr": [
-            64,
-            70,
-            73
+            4,
+            6,
+            12
         ]
     },
     {
         "id": 2,
-        "text": "Charity Event. We are raising funds",
-        "score": 0.9813598394393921,
+        "text": "Charity Event.We are raising funds",
+        "score": 0.930941641330719,
         "position": {
             "x_min": 147,
-            "y_min": 273,
+            "y_min": 272,
             "x_max": 756,
-            "y_max": 317
+            "y_max": 316
         },
         "dimension": {
             "width": 609,
@@ -76,7 +76,37 @@
         "angle": 0.0,
         "center": {
             "cx": 451.5,
-            "cy": 295.0
+            "cy": 294.0
+        },
+        "color_hsv": [
+            155,
+            11,
+            255
+        ],
+        "color_bgr": [
+            253,
+            244,
+            255
+        ]
+    },
+    {
+        "id": 3,
+        "text": "for Cape May Medical Center.",
+        "score": 0.9447418451309204,
+        "position": {
+            "x_min": 143,
+            "y_min": 317,
+            "x_max": 652,
+            "y_max": 358
+        },
+        "dimension": {
+            "width": 509,
+            "height": 41
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 397.5,
+            "cy": 337.5
         },
         "color_hsv": [
             150,
@@ -90,123 +120,93 @@
         ]
     },
     {
-        "id": 3,
-        "text": "for Cape May Medical Center.",
-        "score": 0.9768274426460266,
-        "position": {
-            "x_min": 143,
-            "y_min": 316,
-            "x_max": 651,
-            "y_max": 359
-        },
-        "dimension": {
-            "width": 508,
-            "height": 43
-        },
-        "angle": 0.0,
-        "center": {
-            "cx": 397.0,
-            "cy": 337.5
-        },
-        "color_hsv": [
-            150,
-            7,
-            255
-        ],
-        "color_bgr": [
-            255,
-            248,
-            255
-        ]
-    },
-    {
         "id": 4,
-        "text": "$20 Donation to Artend",
-        "score": 0.9505884051322937,
+        "text": "$20 Donation to Attend",
+        "score": 0.9989356994628906,
         "position": {
-            "x_min": 104,
-            "y_min": 385,
-            "x_max": 623,
-            "y_max": 450
+            "x_min": 114,
+            "y_min": 394,
+            "x_max": 614,
+            "y_max": 441
         },
         "dimension": {
-            "width": 519,
-            "height": 65
+            "width": 500,
+            "height": 47
         },
         "angle": 0.0,
         "center": {
-            "cx": 363.5,
+            "cx": 364.0,
             "cy": 417.5
         },
         "color_hsv": [
-            2,
-            29,
-            119
+            175,
+            213,
+            12
         ],
         "color_bgr": [
-            105,
-            106,
-            119
+            4,
+            2,
+            12
         ]
     },
     {
         "id": 5,
         "text": "6:00 PM - 9:00 PM",
-        "score": 0.9157729148864746,
+        "score": 0.9422341585159302,
         "position": {
             "x_min": 114,
-            "y_min": 461,
-            "x_max": 310,
-            "y_max": 485
+            "y_min": 460,
+            "x_max": 309,
+            "y_max": 484
         },
         "dimension": {
-            "width": 196,
+            "width": 195,
             "height": 24
         },
         "angle": 0.0,
         "center": {
-            "cx": 212.0,
-            "cy": 473.0
+            "cx": 211.5,
+            "cy": 472.0
         },
         "color_hsv": [
-            2,
-            30,
-            108
+            175,
+            213,
+            12
         ],
         "color_bgr": [
-            95,
-            96,
-            108
+            4,
+            2,
+            12
         ]
     },
     {
         "id": 6,
-        "text": "CALL US: +84-392 222.3982",
-        "score": 0.9570390582084656,
+        "text": "CALLUS:+843922223982",
+        "score": 0.9965753555297852,
         "position": {
-            "x_min": 645,
-            "y_min": 458,
-            "x_max": 911,
-            "y_max": 484
+            "x_min": 649,
+            "y_min": 462,
+            "x_max": 908,
+            "y_max": 480
         },
         "dimension": {
-            "width": 266,
-            "height": 26
+            "width": 259,
+            "height": 18
         },
         "angle": 0.0,
         "center": {
-            "cx": 778.0,
+            "cx": 778.5,
             "cy": 471.0
         },
         "color_hsv": [
-            0,
-            24,
-            146
+            175,
+            213,
+            13
         ],
         "color_bgr": [
-            132,
-            132,
-            146
+            4,
+            2,
+            13
         ]
     }
 ]

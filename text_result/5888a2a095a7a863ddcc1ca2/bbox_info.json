@@ -4,19 +4,19 @@
         "text": "CHARITY NIGHT",
         "filename": "layer_00_CHARITY NIGHT.png",
         "position": {
-            "x_min": 64,
-            "y_min": 48,
-            "x_max": 475,
-            "y_max": 97
+            "x_min": 65,
+            "y_min": 49,
+            "x_max": 472,
+            "y_max": 95
         },
         "dimension": {
-            "width": 411,
-            "height": 49
+            "width": 407,
+            "height": 46
         },
         "angle": 0.0,
         "center": {
-            "cx": 269.5,
-            "cy": 72.5
+            "cx": 268.5,
+            "cy": 72.0
         },
         "color_hsv": [
             150,
@@ -34,29 +34,29 @@
         "text": "Come and help raise money for Orphans Shelter Foundation in Westport!",
         "filename": "layer_01_Come and help raise money for .png",
         "position": {
-            "x_min": 299,
+            "x_min": 301,
             "y_min": 162,
-            "x_max": 824,
-            "y_max": 239
+            "x_max": 822,
+            "y_max": 237
         },
         "dimension": {
-            "width": 525,
-            "height": 77
+            "width": 521,
+            "height": 75
         },
         "angle": 0.0,
         "center": {
             "cx": 561.5,
-            "cy": 200.5
+            "cy": 199.5
         },
         "color_hsv": [
-            157,
-            11,
-            251
+            150,
+            5,
+            255
         ],
         "color_bgr": [
-            248,
-            240,
-            251
+            255,
+            250,
+            255
         ]
     }
 ]

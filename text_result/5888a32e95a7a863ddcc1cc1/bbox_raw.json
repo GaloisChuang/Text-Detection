@@ -1,16 +1,16 @@
 [
     {
         "id": 0,
-        "text": "ChArItYnIGhT",
-        "score": 0.6647999882698059,
+        "text": "CHARITYNIGHT",
+        "score": 0.9916961193084717,
         "position": {
-            "x_min": 29,
+            "x_min": 30,
             "y_min": 84,
-            "x_max": 471,
+            "x_max": 470,
             "y_max": 115
         },
         "dimension": {
-            "width": 442,
+            "width": 440,
             "height": 31
         },
         "angle": 0.0,
@@ -19,25 +19,25 @@
             "cy": 99.5
         },
         "color_hsv": [
-            177,
-            145,
-            221
+            179,
+            162,
+            241
         ],
         "color_bgr": [
-            108,
-            95,
-            221
+            93,
+            88,
+            241
         ]
     },
     {
         "id": 1,
         "text": "SHELTER",
-        "score": 0.9934923052787781,
+        "score": 0.9893583059310913,
         "position": {
-            "x_min": 323,
-            "y_min": 135,
-            "x_max": 401,
-            "y_max": 156
+            "x_min": 324,
+            "y_min": 136,
+            "x_max": 402,
+            "y_max": 157
         },
         "dimension": {
             "width": 78,
@@ -45,77 +45,77 @@
         },
         "angle": 0.0,
         "center": {
-            "cx": 362.0,
-            "cy": 145.5
+            "cx": 363.0,
+            "cy": 146.5
         },
         "color_hsv": [
-            179,
-            52,
+            178,
+            32,
             255
         ],
         "color_bgr": [
-            205,
-            203,
+            225,
+            223,
             255
         ]
     },
     {
         "id": 2,
         "text": "FOUDATION",
-        "score": 0.9862475991249084,
+        "score": 0.9944746494293213,
         "position": {
             "x_min": 325,
-            "y_min": 155,
-            "x_max": 429,
-            "y_max": 175
+            "y_min": 156,
+            "x_max": 428,
+            "y_max": 173
         },
         "dimension": {
-            "width": 104,
-            "height": 20
+            "width": 103,
+            "height": 17
         },
         "angle": 0.0,
         "center": {
-            "cx": 377.0,
-            "cy": 165.0
+            "cx": 376.5,
+            "cy": 164.5
         },
         "color_hsv": [
             178,
-            50,
+            30,
             255
         ],
         "color_bgr": [
-            208,
-            205,
+            227,
+            225,
             255
         ]
     },
     {
         "id": 3,
-        "text": "IN Westfort",
-        "score": 0.809378445148468,
+        "text": "INWESTPORT",
+        "score": 0.9924192428588867,
         "position": {
-            "x_min": 324,
-            "y_min": 171,
-            "x_max": 442,
-            "y_max": 195
+            "x_min": 325,
+            "y_min": 172,
+            "x_max": 440,
+            "y_max": 193
         },
         "dimension": {
-            "width": 118,
-            "height": 24
+            "width": 115,
+            "height": 21
         },
         "angle": 0.0,
         "center": {
-            "cx": 383.0,
-            "cy": 183.0
+            "cx": 382.5,
+            "cy": 182.5
         },
         "color_hsv": [
             178,
-            49,
+            31,
             255
         ],
         "color_bgr": [
-            209,
-            206,
+            226,
+            224,
             255
         ]
     }

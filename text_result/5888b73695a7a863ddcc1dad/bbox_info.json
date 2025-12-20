@@ -4,149 +4,119 @@
         "text": "Dating Auction in Wabash Cafe",
         "filename": "layer_00_Dating Auction in Wabash Cafe.png",
         "position": {
-            "x_min": 84,
-            "y_min": 53,
-            "x_max": 442,
-            "y_max": 159
+            "x_min": 87,
+            "y_min": 54,
+            "x_max": 438,
+            "y_max": 156
         },
         "dimension": {
-            "width": 358,
-            "height": 106
+            "width": 351,
+            "height": 102
         },
         "angle": 0.0,
         "center": {
-            "cx": 263.0,
-            "cy": 106.0
+            "cx": 262.5,
+            "cy": 105.0
         },
         "color_hsv": [
-            20,
             6,
-            159
+            170,
+            10
         ],
         "color_bgr": [
-            155,
-            158,
-            159
+            3,
+            5,
+            10
         ]
     },
     {
         "id": 1,
-        "text": "TUESDAY | APRIL 6TH",
-        "filename": "layer_01_TUESDAY  APRIL 6TH.png",
+        "text": "TUESDAY|APRIL 6TH 茶",
+        "filename": "layer_01_TUESDAYAPRIL 6TH 茶.png",
         "position": {
-            "x_min": 37,
-            "y_min": 387,
-            "x_max": 71,
-            "y_max": 636
+            "x_min": 39,
+            "y_min": 391,
+            "x_max": 204,
+            "y_max": 632
         },
         "dimension": {
-            "width": 34,
-            "height": 249
+            "width": 165,
+            "height": 241
         },
-        "angle": 89.53981018066406,
+        "angle": 89.52452850341797,
         "center": {
-            "cx": 54.0,
+            "cx": 121.5,
             "cy": 511.5
         },
         "color_hsv": [
             20,
-            20,
-            145
+            170,
+            12
         ],
         "color_bgr": [
-            134,
-            141,
-            145
+            4,
+            9,
+            12
         ]
     },
     {
         "id": 2,
-        "text": "Charity Event We are raising fundo for  Cape May Medical Centety",
+        "text": "Charity Event We are raising funds for Cape May MedicarCentery",
         "filename": "layer_02_Charity Event We are raising f.png",
         "position": {
             "x_min": 106,
-            "y_min": 632,
-            "x_max": 612,
-            "y_max": 790
+            "y_min": 633,
+            "x_max": 615,
+            "y_max": 795
         },
         "dimension": {
-            "width": 506,
-            "height": 158
+            "width": 509,
+            "height": 162
         },
         "angle": 0.0,
         "center": {
-            "cx": 359.0,
-            "cy": 711.0
+            "cx": 360.5,
+            "cy": 714.0
         },
         "color_hsv": [
-            150,
-            4,
-            255
+            170,
+            18,
+            244
         ],
         "color_bgr": [
-            255,
-            251,
-            255
+            233,
+            227,
+            244
         ]
     },
     {
         "id": 3,
-        "text": "$20 Donation to Attend",
-        "filename": "layer_03_$20 Donation to Attend.png",
+        "text": "$20 Donation to Attend 6:00PM-9:00PM CALLUS:+843922223982",
+        "filename": "layer_03_$20 Donation to Attend 600PM-9.png",
         "position": {
-            "x_min": 78,
-            "y_min": 858,
-            "x_max": 606,
-            "y_max": 935
+            "x_min": 90,
+            "y_min": 871,
+            "x_max": 676,
+            "y_max": 988
         },
         "dimension": {
-            "width": 528,
-            "height": 77
+            "width": 586,
+            "height": 117
         },
         "angle": 0.0,
         "center": {
-            "cx": 342.0,
-            "cy": 896.5
+            "cx": 383.0,
+            "cy": 929.5
         },
         "color_hsv": [
+            175,
+            213,
+            12
+        ],
+        "color_bgr": [
+            4,
             2,
-            24,
-            141
-        ],
-        "color_bgr": [
-            128,
-            129,
-            141
-        ]
-    },
-    {
-        "id": 4,
-        "text": "6:00 PM - 900 PM CALL US: +84 392 222 3982",
-        "filename": "layer_04_600 PM - 900 PM CALL US +84 39.png",
-        "position": {
-            "x_min": 89,
-            "y_min": 964,
-            "x_max": 678,
-            "y_max": 990
-        },
-        "dimension": {
-            "width": 589,
-            "height": 26
-        },
-        "angle": 0.0,
-        "center": {
-            "cx": 383.5,
-            "cy": 977.0
-        },
-        "color_hsv": [
-            0,
-            21,
-            160
-        ],
-        "color_bgr": [
-            147,
-            147,
-            160
+            12
         ]
     }
 ]

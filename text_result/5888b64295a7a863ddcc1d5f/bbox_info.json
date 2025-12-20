@@ -1,13 +1,13 @@
 [
     {
         "id": 0,
-        "text": "Big Fall Volunteer",
-        "filename": "layer_00_Big Fall Volunteer.png",
+        "text": "BigFall Volunteer",
+        "filename": "layer_00_BigFall Volunteer.png",
         "position": {
-            "x_min": 39,
-            "y_min": 23,
-            "x_max": 328,
-            "y_max": 60
+            "x_min": 37,
+            "y_min": 22,
+            "x_max": 326,
+            "y_max": 59
         },
         "dimension": {
             "width": 289,
@@ -15,108 +15,198 @@
         },
         "angle": 0.0,
         "center": {
-            "cx": 183.5,
-            "cy": 41.5
+            "cx": 181.5,
+            "cy": 40.5
         },
         "color_hsv": [
-            176,
-            22,
+            169,
+            7,
             255
         ],
         "color_bgr": [
-            236,
-            233,
+            251,
+            248,
             255
         ]
     },
     {
         "id": 1,
-        "text": "Cleanup",
-        "filename": "layer_01_Cleanup.png",
+        "text": "Teanup",
+        "filename": "layer_01_Teanup.png",
         "position": {
-            "x_min": 55,
-            "y_min": 67,
-            "x_max": 303,
-            "y_max": 126
+            "x_min": 94,
+            "y_min": 71,
+            "x_max": 298,
+            "y_max": 123
         },
         "dimension": {
-            "width": 248,
-            "height": 59
+            "width": 204,
+            "height": 52
         },
         "angle": 0.0,
         "center": {
-            "cx": 179.0,
-            "cy": 96.5
+            "cx": 196.0,
+            "cy": 97.0
         },
         "color_hsv": [
             173,
-            104,
-            39
+            36,
+            35
         ],
         "color_bgr": [
-            27,
-            23,
-            39
+            31,
+            30,
+            35
         ]
     },
     {
         "id": 2,
-        "text": "Meet the winter. Clear a spaee for some snow.",
-        "filename": "layer_02_Meet the winter. Clear a spaee.png",
+        "text": "Meet the winter. Clear a space for some snow.",
+        "filename": "layer_02_Meet the winter. Clear a space.png",
         "position": {
-            "x_min": 70,
+            "x_min": 68,
             "y_min": 135,
             "x_max": 287,
-            "y_max": 177
+            "y_max": 178
         },
         "dimension": {
-            "width": 217,
-            "height": 42
+            "width": 219,
+            "height": 43
         },
         "angle": 0.0,
         "center": {
-            "cx": 178.5,
-            "cy": 156.0
+            "cx": 177.5,
+            "cy": 156.5
         },
         "color_hsv": [
-            178,
-            55,
+            177,
+            19,
             255
         ],
         "color_bgr": [
-            204,
-            200,
+            238,
+            236,
             255
         ]
     },
     {
         "id": 3,
-        "text": "h Salwla, h map",
-        "filename": "layer_03_h Salwla, h map.png",
+        "text": "When:",
+        "filename": "layer_03_When.png",
         "position": {
-            "x_min": 35,
-            "y_min": 357,
-            "x_max": 119,
-            "y_max": 408
+            "x_min": 33,
+            "y_min": 356,
+            "x_max": 77,
+            "y_max": 373
         },
         "dimension": {
-            "width": 84,
-            "height": 51
+            "width": 44,
+            "height": 17
         },
         "angle": 0.0,
         "center": {
-            "cx": 77.0,
-            "cy": 382.5
+            "cx": 55.0,
+            "cy": 364.5
+        },
+        "color_hsv": [
+            25,
+            246,
+            85
+        ],
+        "color_bgr": [
+            3,
+            71,
+            85
+        ]
+    },
+    {
+        "id": 4,
+        "text": "Where:",
+        "filename": "layer_04_Where.png",
+        "position": {
+            "x_min": 213,
+            "y_min": 356,
+            "x_max": 255,
+            "y_max": 373
+        },
+        "dimension": {
+            "width": 42,
+            "height": 17
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 234.0,
+            "cy": 364.5
         },
         "color_hsv": [
             26,
-            140,
-            200
+            174,
+            130
         ],
         "color_bgr": [
-            90,
-            185,
-            200
+            41,
+            118,
+            130
+        ]
+    },
+    {
+        "id": 5,
+        "text": "Saturday,19th Outside your house. November Wherever you live",
+        "filename": "layer_05_Saturday,19th Outside your hou.png",
+        "position": {
+            "x_min": 35,
+            "y_min": 373,
+            "x_max": 308,
+            "y_max": 408
+        },
+        "dimension": {
+            "width": 273,
+            "height": 35
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 171.5,
+            "cy": 390.5
+        },
+        "color_hsv": [
+            25,
+            248,
+            85
+        ],
+        "color_bgr": [
+            2,
+            71,
+            85
+        ]
+    },
+    {
+        "id": 6,
+        "text": "More info on www.nyeleanup.com",
+        "filename": "layer_06_More info on www.nyeleanup.com.png",
+        "position": {
+            "x_min": 91,
+            "y_min": 452,
+            "x_max": 251,
+            "y_max": 473
+        },
+        "dimension": {
+            "width": 160,
+            "height": 21
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 171.0,
+            "cy": 462.5
+        },
+        "color_hsv": [
+            178,
+            37,
+            255
+        ],
+        "color_bgr": [
+            220,
+            218,
+            255
         ]
     }
 ]

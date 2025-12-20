@@ -1,0 +1,152 @@
+[
+    {
+        "id": 0,
+        "text": "Dating Auction in Wabash Cafe",
+        "score": 0.9920368790626526,
+        "position": {
+            "x_min": 28,
+            "y_min": 30,
+            "x_max": 387,
+            "y_max": 60
+        },
+        "dimension": {
+            "width": 359,
+            "height": 30
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 207.5,
+            "cy": 45.0
+        },
+        "color_hsv": [
+            20,
+            51,
+            26
+        ],
+        "color_bgr": [
+            21,
+            24,
+            26
+        ]
+    },
+    {
+        "id": 1,
+        "text": "Donation toAttend",
+        "score": 0.9614262580871582,
+        "position": {
+            "x_min": 795,
+            "y_min": 91,
+            "x_max": 818,
+            "y_max": 224
+        },
+        "dimension": {
+            "width": 23,
+            "height": 133
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 806.5,
+            "cy": 157.5
+        },
+        "color_hsv": [
+            6,
+            54,
+            37
+        ],
+        "color_bgr": [
+            29,
+            31,
+            37
+        ]
+    },
+    {
+        "id": 2,
+        "text": "We areraising funds",
+        "score": 0.9651136994361877,
+        "position": {
+            "x_min": 140,
+            "y_min": 102,
+            "x_max": 301,
+            "y_max": 120
+        },
+        "dimension": {
+            "width": 161,
+            "height": 18
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 220.5,
+            "cy": 111.0
+        },
+        "color_hsv": [
+            6,
+            28,
+            37
+        ],
+        "color_bgr": [
+            33,
+            34,
+            37
+        ]
+    },
+    {
+        "id": 3,
+        "text": "for Cape May Medical Center.",
+        "score": 0.963908314704895,
+        "position": {
+            "x_min": 105,
+            "y_min": 116,
+            "x_max": 335,
+            "y_max": 137
+        },
+        "dimension": {
+            "width": 230,
+            "height": 21
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 220.0,
+            "cy": 126.5
+        },
+        "color_hsv": [
+            6,
+            23,
+            45
+        ],
+        "color_bgr": [
+            41,
+            42,
+            45
+        ]
+    },
+    {
+        "id": 4,
+        "text": "$20",
+        "score": 0.9956369400024414,
+        "position": {
+            "x_min": 810,
+            "y_min": 141,
+            "x_max": 825,
+            "y_max": 172
+        },
+        "dimension": {
+            "width": 15,
+            "height": 31
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 817.5,
+            "cy": 156.5
+        },
+        "color_hsv": [
+            6,
+            57,
+            41
+        ],
+        "color_bgr": [
+            32,
+            34,
+            41
+        ]
+    }
+]

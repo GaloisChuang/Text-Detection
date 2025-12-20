@@ -1,0 +1,632 @@
+[
+    {
+        "id": 0,
+        "text": "Charity",
+        "score": 0.9957524538040161,
+        "position": {
+            "x_min": 468,
+            "y_min": 35,
+            "x_max": 846,
+            "y_max": 159
+        },
+        "dimension": {
+            "width": 378,
+            "height": 124
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 657.0,
+            "cy": 97.0
+        },
+        "color_hsv": [
+            26,
+            237,
+            241
+        ],
+        "color_bgr": [
+            17,
+            211,
+            241
+        ]
+    },
+    {
+        "id": 1,
+        "text": "17/",
+        "score": 0.9165458083152771,
+        "position": {
+            "x_min": 74,
+            "y_min": 96,
+            "x_max": 182,
+            "y_max": 179
+        },
+        "dimension": {
+            "width": 108,
+            "height": 83
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 128.0,
+            "cy": 137.5
+        },
+        "color_hsv": [
+            23,
+            198,
+            40
+        ],
+        "color_bgr": [
+            9,
+            33,
+            40
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Music",
+        "score": 0.9969054460525513,
+        "position": {
+            "x_min": 478,
+            "y_min": 154,
+            "x_max": 782,
+            "y_max": 242
+        },
+        "dimension": {
+            "width": 304,
+            "height": 88
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 630.0,
+            "cy": 198.0
+        },
+        "color_hsv": [
+            173,
+            29,
+            35
+        ],
+        "color_bgr": [
+            32,
+            31,
+            35
+        ]
+    },
+    {
+        "id": 3,
+        "text": " Fest.",
+        "score": 0.9198186993598938,
+        "position": {
+            "x_min": 743,
+            "y_min": 159,
+            "x_max": 1020,
+            "y_max": 242
+        },
+        "dimension": {
+            "width": 277,
+            "height": 83
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 881.5,
+            "cy": 200.5
+        },
+        "color_hsv": [
+            173,
+            29,
+            35
+        ],
+        "color_bgr": [
+            32,
+            31,
+            35
+        ]
+    },
+    {
+        "id": 4,
+        "text": "4/",
+        "score": 0.8365439176559448,
+        "position": {
+            "x_min": 77,
+            "y_min": 205,
+            "x_max": 153,
+            "y_max": 284
+        },
+        "dimension": {
+            "width": 76,
+            "height": 79
+        },
+        "angle": 7.2243146896362305,
+        "center": {
+            "cx": 115.0,
+            "cy": 244.5
+        },
+        "color_hsv": [
+            23,
+            190,
+            39
+        ],
+        "color_bgr": [
+            10,
+            32,
+            39
+        ]
+    },
+    {
+        "id": 5,
+        "text": "Listen and Donate",
+        "score": 0.9983328580856323,
+        "position": {
+            "x_min": 771,
+            "y_min": 242,
+            "x_max": 944,
+            "y_max": 268
+        },
+        "dimension": {
+            "width": 173,
+            "height": 26
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 857.5,
+            "cy": 255.0
+        },
+        "color_hsv": [
+            165,
+            15,
+            35
+        ],
+        "color_bgr": [
+            34,
+            33,
+            35
+        ]
+    },
+    {
+        "id": 6,
+        "text": "Starting at 2 p.m.",
+        "score": 0.9958119988441467,
+        "position": {
+            "x_min": 32,
+            "y_min": 276,
+            "x_max": 56,
+            "y_max": 418
+        },
+        "dimension": {
+            "width": 24,
+            "height": 142
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 44.0,
+            "cy": 347.0
+        },
+        "color_hsv": [
+            98,
+            102,
+            140
+        ],
+        "color_bgr": [
+            140,
+            125,
+            84
+        ]
+    },
+    {
+        "id": 7,
+        "text": "2018/",
+        "score": 0.9725445508956909,
+        "position": {
+            "x_min": 79,
+            "y_min": 313,
+            "x_max": 288,
+            "y_max": 393
+        },
+        "dimension": {
+            "width": 209,
+            "height": 80
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 183.5,
+            "cy": 353.0
+        },
+        "color_hsv": [
+            23,
+            183,
+            39
+        ],
+        "color_bgr": [
+            11,
+            32,
+            39
+        ]
+    },
+    {
+        "id": 8,
+        "text": "Join us for an evening of amazing",
+        "score": 0.9840734004974365,
+        "position": {
+            "x_min": 763,
+            "y_min": 325,
+            "x_max": 1023,
+            "y_max": 347
+        },
+        "dimension": {
+            "width": 260,
+            "height": 22
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 893.0,
+            "cy": 336.0
+        },
+        "color_hsv": [
+            25,
+            255,
+            136
+        ],
+        "color_bgr": [
+            0,
+            113,
+            136
+        ]
+    },
+    {
+        "id": 9,
+        "text": "Special guests:",
+        "score": 0.9696798920631409,
+        "position": {
+            "x_min": 765,
+            "y_min": 373,
+            "x_max": 840,
+            "y_max": 388
+        },
+        "dimension": {
+            "width": 75,
+            "height": 15
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 802.5,
+            "cy": 380.5
+        },
+        "color_hsv": [
+            25,
+            255,
+            165
+        ],
+        "color_bgr": [
+            0,
+            138,
+            165
+        ]
+    },
+    {
+        "id": 10,
+        "text": "The Hoobert Band",
+        "score": 0.9567066431045532,
+        "position": {
+            "x_min": 764,
+            "y_min": 390,
+            "x_max": 857,
+            "y_max": 408
+        },
+        "dimension": {
+            "width": 93,
+            "height": 18
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 810.5,
+            "cy": 399.0
+        },
+        "color_hsv": [
+            25,
+            255,
+            163
+        ],
+        "color_bgr": [
+            0,
+            136,
+            163
+        ]
+    },
+    {
+        "id": 11,
+        "text": "Rainbow Sisters",
+        "score": 0.9835900068283081,
+        "position": {
+            "x_min": 763,
+            "y_min": 402,
+            "x_max": 848,
+            "y_max": 422
+        },
+        "dimension": {
+            "width": 85,
+            "height": 20
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 805.5,
+            "cy": 412.0
+        },
+        "color_hsv": [
+            25,
+            255,
+            162
+        ],
+        "color_bgr": [
+            0,
+            135,
+            162
+        ]
+    },
+    {
+        "id": 12,
+        "text": "Sloane",
+        "score": 0.9914999604225159,
+        "position": {
+            "x_min": 765,
+            "y_min": 417,
+            "x_max": 804,
+            "y_max": 432
+        },
+        "dimension": {
+            "width": 39,
+            "height": 15
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 784.5,
+            "cy": 424.5
+        },
+        "color_hsv": [
+            26,
+            255,
+            164
+        ],
+        "color_bgr": [
+            0,
+            142,
+            164
+        ]
+    },
+    {
+        "id": 13,
+        "text": "2301 Alma Rd, Baltimore, MD",
+        "score": 0.9876339435577393,
+        "position": {
+            "x_min": 67,
+            "y_min": 429,
+            "x_max": 296,
+            "y_max": 450
+        },
+        "dimension": {
+            "width": 229,
+            "height": 21
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 181.5,
+            "cy": 439.5
+        },
+        "color_hsv": [
+            98,
+            81,
+            116
+        ],
+        "color_bgr": [
+            116,
+            106,
+            79
+        ]
+    },
+    {
+        "id": 14,
+        "text": "Andy Curtis",
+        "score": 0.9615375995635986,
+        "position": {
+            "x_min": 764,
+            "y_min": 427,
+            "x_max": 825,
+            "y_max": 445
+        },
+        "dimension": {
+            "width": 61,
+            "height": 18
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 794.5,
+            "cy": 436.0
+        },
+        "color_hsv": [
+            25,
+            255,
+            165
+        ],
+        "color_bgr": [
+            0,
+            138,
+            165
+        ]
+    },
+    {
+        "id": 15,
+        "text": "We are looking for sponsors!",
+        "score": 0.9970704913139343,
+        "position": {
+            "x_min": 65,
+            "y_min": 445,
+            "x_max": 293,
+            "y_max": 470
+        },
+        "dimension": {
+            "width": 228,
+            "height": 25
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 179.0,
+            "cy": 457.5
+        },
+        "color_hsv": [
+            98,
+            83,
+            123
+        ],
+        "color_bgr": [
+            123,
+            112,
+            83
+        ]
+    },
+    {
+        "id": 16,
+        "text": "Douglas Sharp",
+        "score": 0.9939069747924805,
+        "position": {
+            "x_min": 766,
+            "y_min": 442,
+            "x_max": 839,
+            "y_max": 457
+        },
+        "dimension": {
+            "width": 73,
+            "height": 15
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 802.5,
+            "cy": 449.5
+        },
+        "color_hsv": [
+            25,
+            255,
+            163
+        ],
+        "color_bgr": [
+            0,
+            136,
+            163
+        ]
+    },
+    {
+        "id": 17,
+        "text": "Teresa Stevenson& Rob Bell",
+        "score": 0.98680180311203,
+        "position": {
+            "x_min": 764,
+            "y_min": 451,
+            "x_max": 903,
+            "y_max": 470
+        },
+        "dimension": {
+            "width": 139,
+            "height": 19
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 833.5,
+            "cy": 460.5
+        },
+        "color_hsv": [
+            25,
+            255,
+            163
+        ],
+        "color_bgr": [
+            0,
+            136,
+            163
+        ]
+    },
+    {
+        "id": 18,
+        "text": "Please call 74-2716-9172-37",
+        "score": 0.9870965480804443,
+        "position": {
+            "x_min": 68,
+            "y_min": 467,
+            "x_max": 281,
+            "y_max": 485
+        },
+        "dimension": {
+            "width": 213,
+            "height": 18
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 174.5,
+            "cy": 476.0
+        },
+        "color_hsv": [
+            98,
+            82,
+            120
+        ],
+        "color_bgr": [
+            120,
+            110,
+            81
+        ]
+    },
+    {
+        "id": 19,
+        "text": "Astrid Thorpe",
+        "score": 0.9695066213607788,
+        "position": {
+            "x_min": 764,
+            "y_min": 474,
+            "x_max": 832,
+            "y_max": 495
+        },
+        "dimension": {
+            "width": 68,
+            "height": 21
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 798.0,
+            "cy": 484.5
+        },
+        "color_hsv": [
+            25,
+            255,
+            162
+        ],
+        "color_bgr": [
+            0,
+            135,
+            162
+        ]
+    },
+    {
+        "id": 20,
+        "text": "vory Preston",
+        "score": 0.9543752670288086,
+        "position": {
+            "x_min": 766,
+            "y_min": 466,
+            "x_max": 832,
+            "y_max": 481
+        },
+        "dimension": {
+            "width": 66,
+            "height": 15
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 799.0,
+            "cy": 473.5
+        },
+        "color_hsv": [
+            25,
+            255,
+            162
+        ],
+        "color_bgr": [
+            0,
+            135,
+            162
+        ]
+    }
+]

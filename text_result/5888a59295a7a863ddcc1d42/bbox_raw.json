@@ -2,421 +2,811 @@
     {
         "id": 0,
         "text": "BOYNTON",
-        "score": 0.9899006485939026,
+        "score": 0.9927123188972473,
         "position": {
-            "x_min": 38,
+            "x_min": 39,
             "y_min": 41,
-            "x_max": 124,
-            "y_max": 62
+            "x_max": 122,
+            "y_max": 59
         },
         "dimension": {
-            "width": 86,
-            "height": 21
+            "width": 83,
+            "height": 18
         },
         "angle": 0.0,
         "center": {
-            "cx": 81.0,
-            "cy": 51.5
+            "cx": 80.5,
+            "cy": 50.0
         },
         "color_hsv": [
             90,
-            18,
-            123
+            26,
+            51
         ],
         "color_bgr": [
-            123,
-            123,
-            114
+            51,
+            51,
+            46
         ]
     },
     {
         "id": 1,
         "text": "17",
-        "score": 0.9995644688606262,
+        "score": 0.9992901682853699,
         "position": {
-            "x_min": 243,
-            "y_min": 45,
-            "x_max": 304,
-            "y_max": 90
+            "x_min": 245,
+            "y_min": 47,
+            "x_max": 301,
+            "y_max": 88
         },
         "dimension": {
-            "width": 61,
-            "height": 45
+            "width": 56,
+            "height": 41
         },
         "angle": 0.0,
         "center": {
-            "cx": 273.5,
+            "cx": 273.0,
             "cy": 67.5
         },
         "color_hsv": [
-            177,
-            20,
+            174,
+            12,
             255
         ],
         "color_bgr": [
-            237,
-            235,
+            245,
+            243,
             255
         ]
     },
     {
         "id": 2,
-        "text": "CoNfEREnce",
-        "score": 0.619508683681488,
+        "text": "CONFERENCE",
+        "score": 0.9891403317451477,
         "position": {
-            "x_min": 38,
-            "y_min": 57,
-            "x_max": 142,
-            "y_max": 75
+            "x_min": 40,
+            "y_min": 58,
+            "x_max": 141,
+            "y_max": 73
         },
         "dimension": {
-            "width": 104,
-            "height": 18
+            "width": 101,
+            "height": 15
         },
         "angle": 0.0,
         "center": {
-            "cx": 90.0,
-            "cy": 66.0
+            "cx": 90.5,
+            "cy": 65.5
         },
         "color_hsv": [
             93,
-            16,
-            180
+            22,
+            108
         ],
         "color_bgr": [
-            180,
-            179,
-            169
+            108,
+            107,
+            99
         ]
     },
     {
         "id": 3,
         "text": "SAVE THE OCEAN!",
-        "score": 0.976699709892273,
+        "score": 0.9639366865158081,
         "position": {
             "x_min": 54,
             "y_min": 83,
-            "x_max": 166,
-            "y_max": 100
+            "x_max": 165,
+            "y_max": 97
         },
         "dimension": {
-            "width": 112,
-            "height": 17
+            "width": 111,
+            "height": 14
         },
         "angle": 0.0,
         "center": {
-            "cx": 110.0,
-            "cy": 91.5
+            "cx": 109.5,
+            "cy": 90.0
         },
         "color_hsv": [
             165,
-            3,
-            170
+            2,
+            207
         ],
         "color_bgr": [
-            169,
-            168,
-            170
+            206,
+            205,
+            207
         ]
     },
     {
         "id": 4,
         "text": "JULY",
-        "score": 0.9978521466255188,
+        "score": 0.9973727464675903,
         "position": {
-            "x_min": 246,
+            "x_min": 248,
             "y_min": 86,
-            "x_max": 299,
+            "x_max": 298,
             "y_max": 110
         },
         "dimension": {
-            "width": 53,
+            "width": 50,
             "height": 24
         },
         "angle": 0.0,
         "center": {
-            "cx": 272.5,
+            "cx": 273.0,
             "cy": 98.0
         },
         "color_hsv": [
-            179,
-            72,
+            178,
+            51,
             255
         ],
         "color_bgr": [
-            185,
-            183,
+            207,
+            204,
             255
         ]
     },
     {
         "id": 5,
-        "text": "1FM=6 PM ",
-        "score": 0.6781128644943237,
+        "text": "1PM-6PM",
+        "score": 0.9815420508384705,
         "position": {
-            "x_min": 248,
-            "y_min": 107,
-            "x_max": 298,
-            "y_max": 125
+            "x_min": 246,
+            "y_min": 104,
+            "x_max": 299,
+            "y_max": 126
         },
         "dimension": {
-            "width": 50,
-            "height": 18
+            "width": 53,
+            "height": 22
         },
         "angle": 0.0,
         "center": {
-            "cx": 273.0,
-            "cy": 116.0
+            "cx": 272.5,
+            "cy": 115.0
         },
         "color_hsv": [
             179,
-            131,
-            234
+            66,
+            255
         ],
         "color_bgr": [
-            118,
-            114,
-            234
+            191,
+            189,
+            255
         ]
     },
     {
         "id": 6,
-        "text": "ThE",
-        "score": 0.6708347201347351,
+        "text": "THE OCEAN",
+        "score": 0.9730250835418701,
         "position": {
-            "x_min": 31,
-            "y_min": 276,
-            "x_max": 108,
-            "y_max": 306
-        },
-        "dimension": {
-            "width": 77,
-            "height": 30
-        },
-        "angle": 0.0,
-        "center": {
-            "cx": 69.5,
-            "cy": 291.0
-        },
-        "color_hsv": [
-            165,
-            5,
-            106
-        ],
-        "color_bgr": [
-            105,
-            104,
-            106
-        ]
-    },
-    {
-        "id": 7,
-        "text": " OcEan",
-        "score": 0.6738927960395813,
-        "position": {
-            "x_min": 106,
+            "x_min": 34,
             "y_min": 277,
             "x_max": 233,
             "y_max": 306
         },
         "dimension": {
-            "width": 127,
+            "width": 199,
             "height": 29
         },
         "angle": 0.0,
         "center": {
-            "cx": 169.5,
+            "cx": 133.5,
             "cy": 291.5
         },
         "color_hsv": [
-            165,
-            8,
-            83
+            173,
+            29,
+            35
         ],
         "color_bgr": [
-            82,
-            80,
-            83
+            32,
+            31,
+            35
+        ]
+    },
+    {
+        "id": 7,
+        "text": "S",
+        "score": 0.9949657320976257,
+        "position": {
+            "x_min": 59,
+            "y_min": 311,
+            "x_max": 72,
+            "y_max": 322
+        },
+        "dimension": {
+            "width": 13,
+            "height": 11
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 65.5,
+            "cy": 316.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            119
+        ],
+        "color_bgr": [
+            119,
+            119,
+            119
         ]
     },
     {
         "id": 8,
-        "text": "1",
-        "score": 0.9320470690727234,
-        "position": {
-            "x_min": 100,
-            "y_min": 310,
-            "x_max": 127,
-            "y_max": 326
-        },
-        "dimension": {
-            "width": 27,
-            "height": 16
-        },
-        "angle": 0.0,
-        "center": {
-            "cx": 113.5,
-            "cy": 318.0
-        },
-        "color_hsv": [
-            0,
-            0,
-            186
-        ],
-        "color_bgr": [
-            186,
-            186,
-            186
-        ]
-    },
-    {
-        "id": 9,
         "text": "N",
-        "score": 0.9781283736228943,
+        "score": 0.9942876696586609,
         "position": {
-            "x_min": 119,
+            "x_min": 120,
             "y_min": 309,
-            "x_max": 139,
-            "y_max": 326
+            "x_max": 137,
+            "y_max": 323
         },
         "dimension": {
-            "width": 20,
-            "height": 17
-        },
-        "angle": 90.0,
-        "center": {
-            "cx": 129.0,
-            "cy": 317.5
-        },
-        "color_hsv": [
-            0,
-            0,
-            241
-        ],
-        "color_bgr": [
-            241,
-            241,
-            241
-        ]
-    },
-    {
-        "id": 10,
-        "text": "DAN",
-        "score": 0.9770085215568542,
-        "position": {
-            "x_min": 166,
-            "y_min": 307,
-            "x_max": 241,
-            "y_max": 328
-        },
-        "dimension": {
-            "width": 75,
-            "height": 21
-        },
-        "angle": 0.0,
-        "center": {
-            "cx": 203.5,
-            "cy": 317.5
-        },
-        "color_hsv": [
-            0,
-            0,
-            243
-        ],
-        "color_bgr": [
-            243,
-            243,
-            243
-        ]
-    },
-    {
-        "id": 11,
-        "text": "R",
-        "score": 0.981342077255249,
-        "position": {
-            "x_min": 296,
-            "y_min": 311,
-            "x_max": 314,
-            "y_max": 325
-        },
-        "dimension": {
-            "width": 18,
+            "width": 17,
             "height": 14
         },
         "angle": 0.0,
         "center": {
-            "cx": 305.0,
-            "cy": 318.0
+            "cx": 128.5,
+            "cy": 316.0
         },
         "color_hsv": [
             0,
             0,
-            254
+            172
         ],
         "color_bgr": [
-            254,
-            254,
-            254
+            172,
+            172,
+            172
+        ]
+    },
+    {
+        "id": 9,
+        "text": "D",
+        "score": 0.9988906979560852,
+        "position": {
+            "x_min": 171,
+            "y_min": 311,
+            "x_max": 184,
+            "y_max": 322
+        },
+        "dimension": {
+            "width": 13,
+            "height": 11
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 177.5,
+            "cy": 316.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            172
+        ],
+        "color_bgr": [
+            172,
+            172,
+            172
+        ]
+    },
+    {
+        "id": 10,
+        "text": "AN",
+        "score": 0.9864789247512817,
+        "position": {
+            "x_min": 193,
+            "y_min": 309,
+            "x_max": 236,
+            "y_max": 324
+        },
+        "dimension": {
+            "width": 43,
+            "height": 15
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 214.5,
+            "cy": 316.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            134
+        ],
+        "color_bgr": [
+            134,
+            134,
+            134
+        ]
+    },
+    {
+        "id": 11,
+        "text": "G",
+        "score": 0.5251315236091614,
+        "position": {
+            "x_min": 249,
+            "y_min": 311,
+            "x_max": 262,
+            "y_max": 322
+        },
+        "dimension": {
+            "width": 13,
+            "height": 11
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 255.5,
+            "cy": 316.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            113
+        ],
+        "color_bgr": [
+            113,
+            113,
+            113
         ]
     },
     {
         "id": 12,
-        "text": "RECISTER AS",
-        "score": 0.9817977547645569,
+        "text": "R",
+        "score": 0.9849403500556946,
         "position": {
-            "x_min": 38,
-            "y_min": 357,
-            "x_max": 115,
-            "y_max": 377
+            "x_min": 299,
+            "y_min": 311,
+            "x_max": 310,
+            "y_max": 322
         },
         "dimension": {
-            "width": 77,
-            "height": 20
+            "width": 11,
+            "height": 11
         },
-        "angle": 0.0,
+        "angle": 90.0,
         "center": {
-            "cx": 76.5,
-            "cy": 367.0
+            "cx": 304.5,
+            "cy": 316.5
         },
         "color_hsv": [
-            178,
-            42,
-            255
+            0,
+            0,
+            172
         ],
         "color_bgr": [
-            216,
-            213,
-            255
+            172,
+            172,
+            172
         ]
     },
     {
         "id": 13,
-        "text": "EACH VEAR",
-        "score": 0.9273630976676941,
+        "text": "REGISTER AS",
+        "score": 0.9491063952445984,
         "position": {
-            "x_min": 177,
-            "y_min": 356,
-            "x_max": 245,
-            "y_max": 377
+            "x_min": 39,
+            "y_min": 357,
+            "x_max": 116,
+            "y_max": 375
         },
         "dimension": {
-            "width": 68,
-            "height": 21
+            "width": 77,
+            "height": 18
         },
         "angle": 0.0,
         "center": {
-            "cx": 211.0,
-            "cy": 366.5
+            "cx": 77.5,
+            "cy": 366.0
         },
         "color_hsv": [
-            177,
-            40,
-            255
+            179,
+            111,
+            183
         ],
         "color_bgr": [
-            219,
-            215,
-            255
+            106,
+            103,
+            183
+        ]
+    },
+    {
+        "id": 14,
+        "text": "EACH YEAR",
+        "score": 0.9546620845794678,
+        "position": {
+            "x_min": 177,
+            "y_min": 355,
+            "x_max": 246,
+            "y_max": 375
+        },
+        "dimension": {
+            "width": 69,
+            "height": 20
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 211.5,
+            "cy": 365.0
+        },
+        "color_hsv": [
+            179,
+            109,
+            185
+        ],
+        "color_bgr": [
+            109,
+            106,
+            185
+        ]
+    },
+    {
+        "id": 15,
+        "text": "A speaker",
+        "score": 0.9978829622268677,
+        "position": {
+            "x_min": 41,
+            "y_min": 378,
+            "x_max": 77,
+            "y_max": 390
+        },
+        "dimension": {
+            "width": 36,
+            "height": 12
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 59.0,
+            "cy": 384.0
+        },
+        "color_hsv": [
+            0,
+            0,
+            194
+        ],
+        "color_bgr": [
+            194,
+            194,
+            194
+        ]
+    },
+    {
+        "id": 16,
+        "text": "Over 1,000,00 seabirds",
+        "score": 0.9056203365325928,
+        "position": {
+            "x_min": 179,
+            "y_min": 375,
+            "x_max": 264,
+            "y_max": 390
+        },
+        "dimension": {
+            "width": 85,
+            "height": 15
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 221.5,
+            "cy": 382.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            181
+        ],
+        "color_bgr": [
+            181,
+            181,
+            181
+        ]
+    },
+    {
+        "id": 17,
+        "text": "speak (@)con",
+        "score": 0.9599682688713074,
+        "position": {
+            "x_min": 42,
+            "y_min": 392,
+            "x_max": 80,
+            "y_max": 401
+        },
+        "dimension": {
+            "width": 38,
+            "height": 9
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 61.0,
+            "cy": 396.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            192
+        ],
+        "color_bgr": [
+            192,
+            192,
+            192
+        ]
+    },
+    {
+        "id": 18,
+        "text": "are lkilled by ocean pollution.",
+        "score": 0.908365786075592,
+        "position": {
+            "x_min": 181,
+            "y_min": 393,
+            "x_max": 277,
+            "y_max": 405
+        },
+        "dimension": {
+            "width": 96,
+            "height": 12
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 229.0,
+            "cy": 399.0
+        },
+        "color_hsv": [
+            0,
+            0,
+            201
+        ],
+        "color_bgr": [
+            201,
+            201,
+            201
+        ]
+    },
+    {
+        "id": 19,
+        "text": "Book your place",
+        "score": 0.9168749451637268,
+        "position": {
+            "x_min": 39,
+            "y_min": 406,
+            "x_max": 97,
+            "y_max": 424
+        },
+        "dimension": {
+            "width": 58,
+            "height": 18
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 68.0,
+            "cy": 415.0
+        },
+        "color_hsv": [
+            0,
+            0,
+            194
+        ],
+        "color_bgr": [
+            194,
+            194,
+            194
+        ]
+    },
+    {
+        "id": 20,
+        "text": "guests@conference.fL.us",
+        "score": 0.9339200854301453,
+        "position": {
+            "x_min": 40,
+            "y_min": 421,
+            "x_max": 123,
+            "y_max": 434
+        },
+        "dimension": {
+            "width": 83,
+            "height": 13
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 81.5,
+            "cy": 427.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            194
+        ],
+        "color_bgr": [
+            194,
+            194,
+            194
+        ]
+    },
+    {
+        "id": 21,
+        "text": "Ma",
+        "score": 0.9975595474243164,
+        "position": {
+            "x_min": 183,
+            "y_min": 427,
+            "x_max": 192,
+            "y_max": 434
+        },
+        "dimension": {
+            "width": 9,
+            "height": 7
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 187.5,
+            "cy": 430.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            161
+        ],
+        "color_bgr": [
+            161,
+            161,
+            161
+        ]
+    },
+    {
+        "id": 22,
+        "text": "Learn details",
+        "score": 0.9758433699607849,
+        "position": {
+            "x_min": 40,
+            "y_min": 440,
+            "x_max": 87,
+            "y_max": 455
+        },
+        "dimension": {
+            "width": 47,
+            "height": 15
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 63.5,
+            "cy": 447.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            194
+        ],
+        "color_bgr": [
+            194,
+            194,
+            194
+        ]
+    },
+    {
+        "id": 23,
+        "text": "μp Aq",
+        "score": 0.7665764689445496,
+        "position": {
+            "x_min": 182,
+            "y_min": 443,
+            "x_max": 198,
+            "y_max": 452
+        },
+        "dimension": {
+            "width": 16,
+            "height": 9
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 190.0,
+            "cy": 447.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            198
+        ],
+        "color_bgr": [
+            198,
+            198,
+            198
+        ]
+    },
+    {
+        "id": 24,
+        "text": "als relea",
+        "score": 0.9940449595451355,
+        "position": {
+            "x_min": 214,
+            "y_min": 443,
+            "x_max": 241,
+            "y_max": 452
+        },
+        "dimension": {
+            "width": 27,
+            "height": 9
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 227.5,
+            "cy": 447.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            204
+        ],
+        "color_bgr": [
+            204,
+            204,
+            204
+        ]
+    },
+    {
+        "id": 25,
+        "text": "ased in the",
+        "score": 0.9235283136367798,
+        "position": {
+            "x_min": 236,
+            "y_min": 441,
+            "x_max": 274,
+            "y_max": 453
+        },
+        "dimension": {
+            "width": 38,
+            "height": 12
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 255.0,
+            "cy": 447.0
+        },
+        "color_hsv": [
+            0,
+            0,
+            194
+        ],
+        "color_bgr": [
+            194,
+            194,
+            194
+        ]
+    },
+    {
+        "id": 26,
+        "text": "info@conf",
+        "score": 0.9690588712692261,
+        "position": {
+            "x_min": 41,
+            "y_min": 455,
+            "x_max": 77,
+            "y_max": 467
+        },
+        "dimension": {
+            "width": 36,
+            "height": 12
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 59.0,
+            "cy": 461.0
+        },
+        "color_hsv": [
+            0,
+            0,
+            194
+        ],
+        "color_bgr": [
+            194,
+            194,
+            194
         ]
     }
 ]

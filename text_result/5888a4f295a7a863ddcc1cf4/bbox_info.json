@@ -1,0 +1,92 @@
+[
+    {
+        "id": 0,
+        "text": "Dating Auction in Wabash Cafe",
+        "filename": "layer_00_Dating Auction in Wabash Cafe.png",
+        "position": {
+            "x_min": 28,
+            "y_min": 30,
+            "x_max": 387,
+            "y_max": 60
+        },
+        "dimension": {
+            "width": 359,
+            "height": 30
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 207.5,
+            "cy": 45.0
+        },
+        "color_hsv": [
+            20,
+            51,
+            26
+        ],
+        "color_bgr": [
+            21,
+            24,
+            26
+        ]
+    },
+    {
+        "id": 1,
+        "text": "We areraising funds for Cape May Medical Center.",
+        "filename": "layer_01_We areraising funds for Cape M.png",
+        "position": {
+            "x_min": 105,
+            "y_min": 102,
+            "x_max": 335,
+            "y_max": 137
+        },
+        "dimension": {
+            "width": 230,
+            "height": 35
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 220.0,
+            "cy": 119.5
+        },
+        "color_hsv": [
+            6,
+            28,
+            37
+        ],
+        "color_bgr": [
+            33,
+            34,
+            37
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Donation toAttend $20",
+        "filename": "layer_02_Donation toAttend $20.png",
+        "position": {
+            "x_min": 795,
+            "y_min": 91,
+            "x_max": 825,
+            "y_max": 224
+        },
+        "dimension": {
+            "width": 30,
+            "height": 133
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 810.0,
+            "cy": 157.5
+        },
+        "color_hsv": [
+            6,
+            54,
+            37
+        ],
+        "color_bgr": [
+            29,
+            31,
+            37
+        ]
+    }
+]

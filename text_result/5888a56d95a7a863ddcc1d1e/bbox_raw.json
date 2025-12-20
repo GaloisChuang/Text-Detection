@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "text": "No one has ever",
+        "score": 0.9928496479988098,
+        "position": {
+            "x_min": 365,
+            "y_min": 188,
+            "x_max": 661,
+            "y_max": 234
+        },
+        "dimension": {
+            "width": 296,
+            "height": 46
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 513.0,
+            "cy": 211.0
+        },
+        "color_hsv": [
+            150,
+            2,
+            244
+        ],
+        "color_bgr": [
+            244,
+            242,
+            244
+        ]
+    },
+    {
+        "id": 1,
+        "text": "become poor",
+        "score": 0.9992800354957581,
+        "position": {
+            "x_min": 392,
+            "y_min": 239,
+            "x_max": 632,
+            "y_max": 282
+        },
+        "dimension": {
+            "width": 240,
+            "height": 43
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 512.0,
+            "cy": 260.5
+        },
+        "color_hsv": [
+            150,
+            2,
+            249
+        ],
+        "color_bgr": [
+            249,
+            247,
+            249
+        ]
+    },
+    {
+        "id": 2,
+        "text": "from giving.",
+        "score": 0.9995198845863342,
+        "position": {
+            "x_min": 387,
+            "y_min": 280,
+            "x_max": 614,
+            "y_max": 336
+        },
+        "dimension": {
+            "width": 227,
+            "height": 56
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 500.5,
+            "cy": 308.0
+        },
+        "color_hsv": [
+            150,
+            2,
+            241
+        ],
+        "color_bgr": [
+            241,
+            239,
+            241
+        ]
+    },
+    {
+        "id": 3,
+        "text": "Anne Frank",
+        "score": 0.9626775979995728,
+        "position": {
+            "x_min": 460,
+            "y_min": 345,
+            "x_max": 570,
+            "y_max": 369
+        },
+        "dimension": {
+            "width": 110,
+            "height": 24
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 515.0,
+            "cy": 357.0
+        },
+        "color_hsv": [
+            150,
+            3,
+            212
+        ],
+        "color_bgr": [
+            212,
+            210,
+            212
+        ]
+    }
+]

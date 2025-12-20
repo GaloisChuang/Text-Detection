@@ -1,52 +1,82 @@
 [
     {
         "id": 0,
-        "text": "2018/",
-        "score": 0.9551140666007996,
+        "text": "Charity",
+        "score": 0.9995183944702148,
         "position": {
-            "x_min": 34,
-            "y_min": 130,
-            "x_max": 125,
-            "y_max": 174
+            "x_min": 177,
+            "y_min": 74,
+            "x_max": 398,
+            "y_max": 139
         },
         "dimension": {
-            "width": 91,
-            "height": 44
+            "width": 221,
+            "height": 65
         },
         "angle": 0.0,
         "center": {
-            "cx": 79.5,
-            "cy": 152.0
+            "cx": 287.5,
+            "cy": 106.5
         },
         "color_hsv": [
-            25,
-            215,
-            149
+            26,
+            36,
+            35
         ],
         "color_bgr": [
-            23,
-            128,
-            149
+            30,
+            34,
+            35
         ]
     },
     {
         "id": 1,
-        "text": "Musi",
-        "score": 0.9874985814094543,
+        "text": "2018/",
+        "score": 0.9885318875312805,
         "position": {
-            "x_min": 181,
-            "y_min": 131,
-            "x_max": 326,
-            "y_max": 190
+            "x_min": 36,
+            "y_min": 136,
+            "x_max": 119,
+            "y_max": 169
         },
         "dimension": {
-            "width": 145,
-            "height": 59
+            "width": 83,
+            "height": 33
         },
         "angle": 0.0,
         "center": {
-            "cx": 253.5,
-            "cy": 160.5
+            "cx": 77.5,
+            "cy": 152.5
+        },
+        "color_hsv": [
+            24,
+            255,
+            78
+        ],
+        "color_bgr": [
+            0,
+            62,
+            78
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Music Fest.",
+        "score": 0.9971985220909119,
+        "position": {
+            "x_min": 178,
+            "y_min": 134,
+            "x_max": 491,
+            "y_max": 186
+        },
+        "dimension": {
+            "width": 313,
+            "height": 52
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 334.5,
+            "cy": 160.0
         },
         "color_hsv": [
             173,
@@ -60,33 +90,33 @@
         ]
     },
     {
-        "id": 2,
-        "text": "gaten andlgnte",
-        "score": 0.6612545847892761,
+        "id": 3,
+        "text": "Listen and Donate",
+        "score": 0.986102819442749,
         "position": {
-            "x_min": 345,
+            "x_min": 343,
             "y_min": 177,
-            "x_max": 448,
-            "y_max": 198
+            "x_max": 450,
+            "y_max": 200
         },
         "dimension": {
-            "width": 103,
-            "height": 21
+            "width": 107,
+            "height": 23
         },
         "angle": 0.0,
         "center": {
             "cx": 396.5,
-            "cy": 187.5
+            "cy": 188.5
         },
         "color_hsv": [
-            110,
-            3,
-            189
+            165,
+            14,
+            64
         ],
         "color_bgr": [
-            189,
-            188,
-            187
+            62,
+            60,
+            64
         ]
     }
 ]

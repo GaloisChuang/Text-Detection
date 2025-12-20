@@ -4,70 +4,70 @@
         "text": "Dating Auction in Wabash Cafe",
         "filename": "layer_00_Dating Auction in Wabash Cafe.png",
         "position": {
-            "x_min": 108,
-            "y_min": 23,
-            "x_max": 794,
-            "y_max": 75
+            "x_min": 110,
+            "y_min": 22,
+            "x_max": 791,
+            "y_max": 78
         },
         "dimension": {
-            "width": 686,
-            "height": 52
+            "width": 681,
+            "height": 56
         },
         "angle": 0.0,
         "center": {
-            "cx": 451.0,
-            "cy": 49.0
+            "cx": 450.5,
+            "cy": 50.0
         },
         "color_hsv": [
-            30,
-            7,
-            136
+            6,
+            170,
+            11
         ],
         "color_bgr": [
-            132,
-            136,
-            136
+            4,
+            5,
+            11
         ]
     },
     {
         "id": 1,
-        "text": "TUESDAY IAPRIL 6TH",
-        "filename": "layer_01_TUESDAY IAPRIL 6TH.png",
+        "text": "TUESDAY|APRIL6TH",
+        "filename": "layer_01_TUESDAYAPRIL6TH.png",
         "position": {
-            "x_min": 70,
-            "y_min": 93,
-            "x_max": 102,
-            "y_max": 366
+            "x_min": 71,
+            "y_min": 97,
+            "x_max": 100,
+            "y_max": 362
         },
         "dimension": {
-            "width": 32,
-            "height": 273
+            "width": 29,
+            "height": 265
         },
-        "angle": 0.41974180936813354,
+        "angle": 90.0,
         "center": {
-            "cx": 86.0,
+            "cx": 85.5,
             "cy": 229.5
         },
         "color_hsv": [
-            20,
-            30,
-            73
+            6,
+            170,
+            12
         ],
         "color_bgr": [
-            64,
-            70,
-            73
+            4,
+            6,
+            12
         ]
     },
     {
         "id": 2,
-        "text": "for Cape May Medical Center. Charity Event. We are raising funds",
+        "text": "for Cape May Medical Center. Charity Event.We are raising funds",
         "filename": "layer_02_for Cape May Medical Center. C.png",
         "position": {
             "x_min": 143,
-            "y_min": 273,
+            "y_min": 272,
             "x_max": 756,
-            "y_max": 359
+            "y_max": 358
         },
         "dimension": {
             "width": 613,
@@ -76,47 +76,47 @@
         "angle": 0.0,
         "center": {
             "cx": 449.5,
-            "cy": 316.0
+            "cy": 315.0
         },
         "color_hsv": [
-            150,
-            6,
+            155,
+            11,
             255
         ],
         "color_bgr": [
-            255,
-            249,
+            253,
+            244,
             255
         ]
     },
     {
         "id": 3,
-        "text": "$20 Donation to Artend 6:00 PM - 9:00 PM CALL US: +84-392 222.3982",
-        "filename": "layer_03_$20 Donation to Artend 600 PM .png",
+        "text": "$20 Donation to Attend 6:00 PM - 9:00 PM CALLUS:+843922223982",
+        "filename": "layer_03_$20 Donation to Attend 600 PM .png",
         "position": {
-            "x_min": 104,
-            "y_min": 385,
-            "x_max": 911,
-            "y_max": 485
+            "x_min": 114,
+            "y_min": 394,
+            "x_max": 908,
+            "y_max": 484
         },
         "dimension": {
-            "width": 807,
-            "height": 100
+            "width": 794,
+            "height": 90
         },
         "angle": 0.0,
         "center": {
-            "cx": 507.5,
-            "cy": 435.0
+            "cx": 511.0,
+            "cy": 439.0
         },
         "color_hsv": [
-            2,
-            29,
-            119
+            175,
+            213,
+            12
         ],
         "color_bgr": [
-            105,
-            106,
-            119
+            4,
+            2,
+            12
         ]
     }
 ]

@@ -4,179 +4,179 @@
         "text": "BOYNTON",
         "filename": "layer_00_BOYNTON.png",
         "position": {
-            "x_min": 38,
+            "x_min": 39,
             "y_min": 41,
-            "x_max": 124,
-            "y_max": 62
+            "x_max": 122,
+            "y_max": 59
         },
         "dimension": {
-            "width": 86,
-            "height": 21
-        },
-        "angle": 0.0,
-        "center": {
-            "cx": 81.0,
-            "cy": 51.5
-        },
-        "color_hsv": [
-            90,
-            18,
-            123
-        ],
-        "color_bgr": [
-            123,
-            123,
-            114
-        ]
-    },
-    {
-        "id": 1,
-        "text": "SAVE THE OCEAN! CoNfEREnce 17",
-        "filename": "layer_01_SAVE THE OCEAN! CoNfEREnce 17.png",
-        "position": {
-            "x_min": 38,
-            "y_min": 45,
-            "x_max": 304,
-            "y_max": 100
-        },
-        "dimension": {
-            "width": 266,
-            "height": 55
-        },
-        "angle": 0.0,
-        "center": {
-            "cx": 171.0,
-            "cy": 72.5
-        },
-        "color_hsv": [
-            93,
-            16,
-            180
-        ],
-        "color_bgr": [
-            180,
-            179,
-            169
-        ]
-    },
-    {
-        "id": 2,
-        "text": "JULY",
-        "filename": "layer_02_JULY.png",
-        "position": {
-            "x_min": 246,
-            "y_min": 86,
-            "x_max": 299,
-            "y_max": 110
-        },
-        "dimension": {
-            "width": 53,
-            "height": 24
-        },
-        "angle": 0.0,
-        "center": {
-            "cx": 272.5,
-            "cy": 98.0
-        },
-        "color_hsv": [
-            179,
-            72,
-            255
-        ],
-        "color_bgr": [
-            185,
-            183,
-            255
-        ]
-    },
-    {
-        "id": 3,
-        "text": "1FM=6 PM ",
-        "filename": "layer_03_1FM=6 PM .png",
-        "position": {
-            "x_min": 248,
-            "y_min": 107,
-            "x_max": 298,
-            "y_max": 125
-        },
-        "dimension": {
-            "width": 50,
+            "width": 83,
             "height": 18
         },
         "angle": 0.0,
         "center": {
-            "cx": 273.0,
-            "cy": 116.0
+            "cx": 80.5,
+            "cy": 50.0
         },
         "color_hsv": [
-            179,
-            131,
-            234
+            90,
+            26,
+            51
         ],
         "color_bgr": [
-            118,
-            114,
-            234
+            51,
+            51,
+            46
+        ]
+    },
+    {
+        "id": 1,
+        "text": "17",
+        "filename": "layer_01_17.png",
+        "position": {
+            "x_min": 245,
+            "y_min": 47,
+            "x_max": 301,
+            "y_max": 88
+        },
+        "dimension": {
+            "width": 56,
+            "height": 41
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 273.0,
+            "cy": 67.5
+        },
+        "color_hsv": [
+            174,
+            12,
+            255
+        ],
+        "color_bgr": [
+            245,
+            243,
+            255
+        ]
+    },
+    {
+        "id": 2,
+        "text": "CONFERENCE",
+        "filename": "layer_02_CONFERENCE.png",
+        "position": {
+            "x_min": 40,
+            "y_min": 58,
+            "x_max": 141,
+            "y_max": 73
+        },
+        "dimension": {
+            "width": 101,
+            "height": 15
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 90.5,
+            "cy": 65.5
+        },
+        "color_hsv": [
+            93,
+            22,
+            108
+        ],
+        "color_bgr": [
+            108,
+            107,
+            99
+        ]
+    },
+    {
+        "id": 3,
+        "text": "SAVE THE OCEAN! JULY",
+        "filename": "layer_03_SAVE THE OCEAN! JULY.png",
+        "position": {
+            "x_min": 54,
+            "y_min": 83,
+            "x_max": 298,
+            "y_max": 110
+        },
+        "dimension": {
+            "width": 244,
+            "height": 27
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 176.0,
+            "cy": 96.5
+        },
+        "color_hsv": [
+            165,
+            2,
+            207
+        ],
+        "color_bgr": [
+            206,
+            205,
+            207
         ]
     },
     {
         "id": 4,
-        "text": "ThE  OcEan",
-        "filename": "layer_04_ThE  OcEan.png",
+        "text": "1PM-6PM",
+        "filename": "layer_04_1PM-6PM.png",
         "position": {
-            "x_min": 31,
-            "y_min": 276,
-            "x_max": 233,
-            "y_max": 306
+            "x_min": 246,
+            "y_min": 104,
+            "x_max": 299,
+            "y_max": 126
         },
         "dimension": {
-            "width": 202,
-            "height": 30
+            "width": 53,
+            "height": 22
         },
         "angle": 0.0,
         "center": {
-            "cx": 132.0,
-            "cy": 291.0
+            "cx": 272.5,
+            "cy": 115.0
         },
         "color_hsv": [
-            165,
-            5,
-            106
+            179,
+            66,
+            255
         ],
         "color_bgr": [
-            105,
-            104,
-            106
+            191,
+            189,
+            255
         ]
     },
     {
         "id": 5,
-        "text": "DAN R",
-        "filename": "layer_05_DAN R.png",
+        "text": "THE OCEAN",
+        "filename": "layer_05_THE OCEAN.png",
         "position": {
-            "x_min": 166,
-            "y_min": 307,
-            "x_max": 314,
-            "y_max": 328
+            "x_min": 34,
+            "y_min": 277,
+            "x_max": 233,
+            "y_max": 306
         },
         "dimension": {
-            "width": 148,
-            "height": 21
+            "width": 199,
+            "height": 29
         },
         "angle": 0.0,
         "center": {
-            "cx": 240.0,
-            "cy": 317.5
+            "cx": 133.5,
+            "cy": 291.5
         },
         "color_hsv": [
-            0,
-            0,
-            243
+            173,
+            29,
+            35
         ],
         "color_bgr": [
-            243,
-            243,
-            243
+            32,
+            31,
+            35
         ]
     },
     {
@@ -184,89 +184,239 @@
         "text": "N",
         "filename": "layer_06_N.png",
         "position": {
-            "x_min": 119,
+            "x_min": 120,
             "y_min": 309,
-            "x_max": 139,
-            "y_max": 326
+            "x_max": 137,
+            "y_max": 323
         },
         "dimension": {
-            "width": 20,
-            "height": 17
+            "width": 17,
+            "height": 14
         },
-        "angle": 90.0,
+        "angle": 0.0,
         "center": {
-            "cx": 129.0,
-            "cy": 317.5
+            "cx": 128.5,
+            "cy": 316.0
         },
         "color_hsv": [
             0,
             0,
-            241
+            172
         ],
         "color_bgr": [
-            241,
-            241,
-            241
+            172,
+            172,
+            172
         ]
     },
     {
         "id": 7,
-        "text": "1",
-        "filename": "layer_07_1.png",
+        "text": "AN",
+        "filename": "layer_07_AN.png",
         "position": {
-            "x_min": 100,
-            "y_min": 310,
-            "x_max": 127,
-            "y_max": 326
+            "x_min": 193,
+            "y_min": 309,
+            "x_max": 236,
+            "y_max": 324
         },
         "dimension": {
-            "width": 27,
-            "height": 16
+            "width": 43,
+            "height": 15
         },
         "angle": 0.0,
         "center": {
-            "cx": 113.5,
-            "cy": 318.0
+            "cx": 214.5,
+            "cy": 316.5
         },
         "color_hsv": [
             0,
             0,
-            186
+            134
         ],
         "color_bgr": [
-            186,
-            186,
-            186
+            134,
+            134,
+            134
         ]
     },
     {
         "id": 8,
-        "text": "RECISTER AS EACH VEAR",
-        "filename": "layer_08_RECISTER AS EACH VEAR.png",
+        "text": "S",
+        "filename": "layer_08_S.png",
         "position": {
-            "x_min": 38,
-            "y_min": 356,
-            "x_max": 245,
-            "y_max": 377
+            "x_min": 59,
+            "y_min": 311,
+            "x_max": 72,
+            "y_max": 322
+        },
+        "dimension": {
+            "width": 13,
+            "height": 11
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 65.5,
+            "cy": 316.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            119
+        ],
+        "color_bgr": [
+            119,
+            119,
+            119
+        ]
+    },
+    {
+        "id": 9,
+        "text": "D",
+        "filename": "layer_09_D.png",
+        "position": {
+            "x_min": 171,
+            "y_min": 311,
+            "x_max": 184,
+            "y_max": 322
+        },
+        "dimension": {
+            "width": 13,
+            "height": 11
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 177.5,
+            "cy": 316.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            172
+        ],
+        "color_bgr": [
+            172,
+            172,
+            172
+        ]
+    },
+    {
+        "id": 10,
+        "text": "G",
+        "filename": "layer_10_G.png",
+        "position": {
+            "x_min": 249,
+            "y_min": 311,
+            "x_max": 262,
+            "y_max": 322
+        },
+        "dimension": {
+            "width": 13,
+            "height": 11
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 255.5,
+            "cy": 316.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            113
+        ],
+        "color_bgr": [
+            113,
+            113,
+            113
+        ]
+    },
+    {
+        "id": 11,
+        "text": "R",
+        "filename": "layer_11_R.png",
+        "position": {
+            "x_min": 299,
+            "y_min": 311,
+            "x_max": 310,
+            "y_max": 322
+        },
+        "dimension": {
+            "width": 11,
+            "height": 11
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 304.5,
+            "cy": 316.5
+        },
+        "color_hsv": [
+            0,
+            0,
+            172
+        ],
+        "color_bgr": [
+            172,
+            172,
+            172
+        ]
+    },
+    {
+        "id": 12,
+        "text": "REGISTER AS EACH YEAR",
+        "filename": "layer_12_REGISTER AS EACH YEAR.png",
+        "position": {
+            "x_min": 39,
+            "y_min": 355,
+            "x_max": 246,
+            "y_max": 375
         },
         "dimension": {
             "width": 207,
-            "height": 21
+            "height": 20
         },
         "angle": 0.0,
         "center": {
-            "cx": 141.5,
-            "cy": 366.5
+            "cx": 142.5,
+            "cy": 365.0
         },
         "color_hsv": [
-            178,
-            42,
-            255
+            179,
+            111,
+            183
         ],
         "color_bgr": [
-            216,
-            213,
-            255
+            106,
+            103,
+            183
+        ]
+    },
+    {
+        "id": 13,
+        "text": "info@conf Book your place guests@conference.fL.us Ma A speaker Over 1,000,00 seabirds Learn details μp Aq als relea ased in the speak (@)con are lkilled by ocean pollution.",
+        "filename": "layer_13_info@conf Book your place gues.png",
+        "position": {
+            "x_min": 39,
+            "y_min": 375,
+            "x_max": 277,
+            "y_max": 467
+        },
+        "dimension": {
+            "width": 238,
+            "height": 92
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 158.0,
+            "cy": 421.0
+        },
+        "color_hsv": [
+            0,
+            0,
+            194
+        ],
+        "color_bgr": [
+            194,
+            194,
+            194
         ]
     }
 ]

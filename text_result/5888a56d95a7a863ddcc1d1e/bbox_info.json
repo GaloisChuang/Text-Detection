@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "text": "No one has ever become poor from giving. Anne Frank",
+        "filename": "layer_00_No one has ever become poor fr.png",
+        "position": {
+            "x_min": 365,
+            "y_min": 188,
+            "x_max": 661,
+            "y_max": 369
+        },
+        "dimension": {
+            "width": 296,
+            "height": 181
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 513.0,
+            "cy": 278.5
+        },
+        "color_hsv": [
+            150,
+            2,
+            244
+        ],
+        "color_bgr": [
+            244,
+            242,
+            244
+        ]
+    }
+]

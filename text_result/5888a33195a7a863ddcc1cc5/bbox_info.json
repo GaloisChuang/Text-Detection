@@ -1,32 +1,62 @@
 [
     {
         "id": 0,
-        "text": "C",
-        "filename": "layer_00_C.png",
+        "text": "ZAINAB'S CHARITY GARAGESALE",
+        "filename": "layer_00_ZAINAB'S CHARITY GARAGESALE.png",
         "position": {
-            "x_min": 827,
-            "y_min": 39,
-            "x_max": 850,
-            "y_max": 62
+            "x_min": 39,
+            "y_min": 32,
+            "x_max": 806,
+            "y_max": 63
         },
         "dimension": {
-            "width": 23,
-            "height": 23
+            "width": 767,
+            "height": 31
         },
-        "angle": 90.0,
+        "angle": 0.0,
         "center": {
-            "cx": 838.5,
-            "cy": 50.5
+            "cx": 422.5,
+            "cy": 47.5
         },
         "color_hsv": [
             6,
-            10,
-            117
+            170,
+            9
         ],
         "color_bgr": [
-            112,
-            113,
-            117
+            3,
+            4,
+            9
+        ]
+    },
+    {
+        "id": 1,
+        "text": "C",
+        "filename": "layer_01_C.png",
+        "position": {
+            "x_min": 833,
+            "y_min": 42,
+            "x_max": 847,
+            "y_max": 58
+        },
+        "dimension": {
+            "width": 14,
+            "height": 16
+        },
+        "angle": 90.0,
+        "center": {
+            "cx": 840.0,
+            "cy": 50.0
+        },
+        "color_hsv": [
+            0,
+            170,
+            9
+        ],
+        "color_bgr": [
+            3,
+            3,
+            9
         ]
     }
 ]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "text": "Platform Civic Crowdfunding",
+        "filename": "layer_00_Platform Civic Crowdfunding.png",
+        "position": {
+            "x_min": 209,
+            "y_min": 15,
+            "x_max": 670,
+            "y_max": 118
+        },
+        "dimension": {
+            "width": 461,
+            "height": 103
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 439.5,
+            "cy": 66.5
+        },
+        "color_hsv": [
+            83,
+            7,
+            255
+        ],
+        "color_bgr": [
+            253,
+            255,
+            248
+        ]
+    },
+    {
+        "id": 1,
+        "text": "Visit,choose from thevariety of social projects anddonateasmuchasyouwish.",
+        "filename": "layer_01_Visit,choose from thevariety o.png",
+        "position": {
+            "x_min": 283,
+            "y_min": 158,
+            "x_max": 806,
+            "y_max": 214
+        },
+        "dimension": {
+            "width": 523,
+            "height": 56
+        },
+        "angle": 0.0,
+        "center": {
+            "cx": 544.5,
+            "cy": 186.0
+        },
+        "color_hsv": [
+            79,
+            57,
+            255
+        ],
+        "color_bgr": [
+            234,
+            255,
+            198
+        ]
+    }
+]
